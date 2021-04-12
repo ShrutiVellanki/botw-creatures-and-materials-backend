@@ -62,6 +62,36 @@
             ],
             "cooking_effect": "",
             "image": ""  
+        },
+        {
+            "id": 204,
+            "name": "raw bird thigh",
+            "description": "",
+            "hearts_recovered": "",
+            "creature_sources": [],
+            "common_locations": [],
+            "cooking_effect": "",
+            "image": ""
+        },
+        {
+            "id": 205,
+            "name": "raw bird drumstick",
+            "description": "",
+            "hearts_recovered": "",
+            "creature_sources": [],
+            "common_locations": [],
+            "cooking_effect": "",
+            "image": ""
+        },
+        {
+            "id": 206,
+            "name": "raw whole bird",
+            "description": "",
+            "hearts_recovered": "",
+            "creature_sources": [],
+            "common_locations": [],
+            "cooking_effect": "",
+            "image": ""
         }
     ] 
 }

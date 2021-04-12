@@ -1,0 +1,604 @@
+{
+    "data": [
+        {
+            "id": 218,
+            "name": "dinraal's claw",
+            "description": "",
+            "hearts_recovered": "",
+            "creature_sources": [],
+            "common_locations": [],
+            "cooking_effect": "",
+            "image": ""
+        },
+        {
+            "id": 219,
+            "name": "dinraal's scale",
+            "description": "",
+            "hearts_recovered": "",
+            "creature_sources": [],
+            "common_locations": [],
+            "cooking_effect": "",
+            "image": ""
+        },
+        {
+            "id": 220,
+            "name": "farosh's claw",
+            "description": "",
+            "hearts_recovered": "",
+            "creature_sources": [],
+            "common_locations": [],
+            "cooking_effect": "",
+            "image": ""
+        },
+        {
+            "id": 221,
+            "name": "farosh's scale",
+            "description": "",
+            "hearts_recovered": "",
+            "creature_sources": [],
+            "common_locations": [],
+            "cooking_effect": "",
+            "image": ""
+        },
+        {
+            "id": 222,
+            "name": "naydra's claw",
+            "description": "",
+            "hearts_recovered": "",
+            "creature_sources": [],
+            "common_locations": [],
+            "cooking_effect": "",
+            "image": ""
+        },
+        {
+            "id": 223,
+            "name": "naydra's scale",
+            "description": "",
+            "hearts_recovered": "",
+            "creature_sources": [],
+            "common_locations": [],
+            "cooking_effect": "",
+            "image": ""
+        },
+        {
+            "id": 224,
+            "name": "shard of dinraal's fang",
+            "description": "",
+            "hearts_recovered": "",
+            "creature_sources": [],
+            "common_locations": [],
+            "cooking_effect": "",
+            "image": ""
+        },
+        {
+            "id": 225,
+            "name": "shard of dinraal's horn",
+            "description": "",
+            "hearts_recovered": "",
+            "creature_sources": [],
+            "common_locations": [],
+            "cooking_effect": "",
+            "image": ""
+        },
+        {
+            "id": 226,
+            "name": "shard of farosh's fang",
+            "description": "",
+            "hearts_recovered": "",
+            "creature_sources": [],
+            "common_locations": [],
+            "cooking_effect": "",
+            "image": ""
+        },
+        {
+            "id": 227,
+            "name": "shard of farosh's horn",
+            "description": "",
+            "hearts_recovered": "",
+            "creature_sources": [],
+            "common_locations": [],
+            "cooking_effect": "",
+            "image": ""
+        },
+        {
+            "id": 228,
+            "name": "shard of naydra's fang",
+            "description": "",
+            "hearts_recovered": "",
+            "creature_sources": [],
+            "common_locations": [],
+            "cooking_effect": "",
+            "image": ""
+        },
+        {
+            "id": 229,
+            "name": "shard of naydra's horn",
+            "description": "",
+            "hearts_recovered": "",
+            "creature_sources": [],
+            "common_locations": [],
+            "cooking_effect": "",
+            "image": ""
+        },
+        {
+            "id": 230,
+            "name": "octo balloon",
+            "description": "",
+            "hearts_recovered": "",
+            "creature_sources": [],
+            "common_locations": [],
+            "cooking_effect": "",
+            "image": ""
+        },
+        {
+            "id": 231,
+            "name": "red chuchu jelly",
+            "description": "",
+            "hearts_recovered": "",
+            "creature_sources": [],
+            "common_locations": [],
+            "cooking_effect": "",
+            "image": ""
+        },
+        {
+            "id": 232,
+            "name": "bokoblin fang",
+            "description": "",
+            "hearts_recovered": "",
+            "creature_sources": [],
+            "common_locations": [],
+            "cooking_effect": "",
+            "image": ""
+        },
+        {
+            "id": 233,
+            "name": "bokoblin guts",
+            "description": "",
+            "hearts_recovered": "",
+            "creature_sources": [],
+            "common_locations": [],
+            "cooking_effect": "",
+            "image": ""
+        },
+        {
+            "id": 234,
+            "name": "bokoblin horn",
+            "description": "",
+            "hearts_recovered": "",
+            "creature_sources": [],
+            "common_locations": [],
+            "cooking_effect": "",
+            "image": ""
+        },
+        {
+            "id": 235,
+            "name": "chuchu jelly",
+            "description": "",
+            "hearts_recovered": "",
+            "creature_sources": [],
+            "common_locations": [],
+            "cooking_effect": "",
+            "image": ""
+        },
+        {
+            "id": 236,
+            "name": "electric keese wing",
+            "description": "",
+            "hearts_recovered": "",
+            "creature_sources": [],
+            "common_locations": [],
+            "cooking_effect": "",
+            "image": ""
+        },
+        {
+            "id": 237,
+            "name": "fire keese wing",
+            "description": "",
+            "hearts_recovered": "",
+            "creature_sources": [],
+            "common_locations": [],
+            "cooking_effect": "",
+            "image": ""
+        },
+        {
+            "id": 238,
+            "name": "hinox guts",
+            "description": "",
+            "hearts_recovered": "",
+            "creature_sources": [],
+            "common_locations": [],
+            "cooking_effect": "",
+            "image": ""
+        },
+        {
+            "id": 239,
+            "name": "hinox toenail",
+            "description": "",
+            "hearts_recovered": "",
+            "creature_sources": [],
+            "common_locations": [],
+            "cooking_effect": "",
+            "image": ""
+        },
+        {
+            "id": 240,
+            "name": "hinox tooth",
+            "description": "",
+            "hearts_recovered": "",
+            "creature_sources": [],
+            "common_locations": [],
+            "cooking_effect": "",
+            "image": ""
+        },
+        {
+            "id": 241,
+            "name": "ice keese wing",
+            "description": "",
+            "hearts_recovered": "",
+            "creature_sources": [],
+            "common_locations": [],
+            "cooking_effect": "",
+            "image": ""
+        },
+        {
+            "id": 242,
+            "name": "icy lizalfos tail",
+            "description": "",
+            "hearts_recovered": "",
+            "creature_sources": [],
+            "common_locations": [],
+            "cooking_effect": "",
+            "image": ""
+        },
+        {
+            "id": 243,
+            "name": "keese eyeball",
+            "description": "",
+            "hearts_recovered": "",
+            "creature_sources": [],
+            "common_locations": [],
+            "cooking_effect": "",
+            "image": ""
+        },
+        {
+            "id": 244,
+            "name": "keese wing",
+            "description": "",
+            "hearts_recovered": "",
+            "creature_sources": [],
+            "common_locations": [],
+            "cooking_effect": "",
+            "image": ""
+        },
+        {
+            "id": 245,
+            "name": "lizalfos horn",
+            "description": "",
+            "hearts_recovered": "",
+            "creature_sources": [],
+            "common_locations": [],
+            "cooking_effect": "",
+            "image": ""
+        },
+        {
+            "id": 246,
+            "name": "lizalfos tail",
+            "description": "",
+            "hearts_recovered": "",
+            "creature_sources": [],
+            "common_locations": [],
+            "cooking_effect": "",
+            "image": ""
+        },
+        {
+            "id": 247,
+            "name": "lizalfos talon",
+            "description": "",
+            "hearts_recovered": "",
+            "creature_sources": [],
+            "common_locations": [],
+            "cooking_effect": "",
+            "image": ""
+        },
+        {
+            "id": 248,
+            "name": "lynel guts",
+            "description": "",
+            "hearts_recovered": "",
+            "creature_sources": [],
+            "common_locations": [],
+            "cooking_effect": "",
+            "image": ""
+        },
+        {
+            "id": 249,
+            "name": "lynel hoof",
+            "description": "",
+            "hearts_recovered": "",
+            "creature_sources": [],
+            "common_locations": [],
+            "cooking_effect": "",
+            "image": ""
+        },
+        {
+            "id": 250,
+            "name": "lynel horn",
+            "description": "",
+            "hearts_recovered": "",
+            "creature_sources": [],
+            "common_locations": [],
+            "cooking_effect": "",
+            "image": ""
+        },
+        {
+            "id": 251,
+            "name": "moblin fang",
+            "description": "",
+            "hearts_recovered": "",
+            "creature_sources": [],
+            "common_locations": [],
+            "cooking_effect": "",
+            "image": ""
+        },
+        {
+            "id": 252,
+            "name": "moblin guts",
+            "description": "",
+            "hearts_recovered": "",
+            "creature_sources": [],
+            "common_locations": [],
+            "cooking_effect": "",
+            "image": ""
+        },
+        {
+            "id": 253,
+            "name": "moblin horn",
+            "description": "",
+            "hearts_recovered": "",
+            "creature_sources": [],
+            "common_locations": [],
+            "cooking_effect": "",
+            "image": ""
+        },
+        {
+            "id": 254,
+            "name": "molduga fin",
+            "description": "",
+            "hearts_recovered": "",
+            "creature_sources": [],
+            "common_locations": [],
+            "cooking_effect": "",
+            "image": ""
+        },
+        {
+            "id": 255,
+            "name": "molduga guts",
+            "description": "",
+            "hearts_recovered": "",
+            "creature_sources": [],
+            "common_locations": [],
+            "cooking_effect": "",
+            "image": ""
+        },
+        {
+            "id": 256,
+            "name": "octorok eyeball",
+            "description": "",
+            "hearts_recovered": "",
+            "creature_sources": [],
+            "common_locations": [],
+            "cooking_effect": "",
+            "image": ""
+        },
+        {
+            "id": 257,
+            "name": "octorok tentacle",
+            "description": "",
+            "hearts_recovered": "",
+            "creature_sources": [],
+            "common_locations": [],
+            "cooking_effect": "",
+            "image": ""
+        },
+        {
+            "id": 258,
+            "name": "red lizalfos tail",
+            "description": "",
+            "hearts_recovered": "",
+            "creature_sources": [],
+            "common_locations": [],
+            "cooking_effect": "",
+            "image": ""
+        },
+        {
+            "id": 259,
+            "name": "white chuchu jelly",
+            "description": "",
+            "hearts_recovered": "",
+            "creature_sources": [],
+            "common_locations": [],
+            "cooking_effect": "",
+            "image": ""
+        },
+        {
+            "id": 260,
+            "name": "yellow lizalfos tail",
+            "description": "",
+            "hearts_recovered": "",
+            "creature_sources": [],
+            "common_locations": [],
+            "cooking_effect": "",
+            "image": ""
+        },
+        {
+            "id": 261,
+            "name": "yellow chuchu jelly",
+            "description": "",
+            "hearts_recovered": "",
+            "creature_sources": [],
+            "common_locations": [],
+            "cooking_effect": "",
+            "image": ""
+        },
+        {
+            "id": 262,
+            "name": "monster extract",
+            "description": "",
+            "hearts_recovered": "",
+            "creature_sources": [],
+            "common_locations": [],
+            "cooking_effect": "",
+            "image": ""
+        },
+        {
+            "id": 263,
+            "name": "topaz",
+            "description": "",
+            "hearts_recovered": "",
+            "creature_sources": [],
+            "common_locations": [],
+            "cooking_effect": "",
+            "image": ""
+        },
+        {
+            "id": 264,
+            "name": "ancient core",
+            "description": "",
+            "hearts_recovered": "",
+            "creature_sources": [],
+            "common_locations": [],
+            "cooking_effect": "",
+            "image": ""
+        },
+        {
+            "id": 265,
+            "name": "ancient gear",
+            "description": "",
+            "hearts_recovered": "",
+            "creature_sources": [],
+            "common_locations": [],
+            "cooking_effect": "",
+            "image": ""
+        },
+        {
+            "id": 266,
+            "name": "ancient screw",
+            "description": "",
+            "hearts_recovered": "",
+            "creature_sources": [],
+            "common_locations": [],
+            "cooking_effect": "",
+            "image": ""
+        },
+        {
+            "id": 267,
+            "name": "ancient shaft",
+            "description": "",
+            "hearts_recovered": "",
+            "creature_sources": [],
+            "common_locations": [],
+            "cooking_effect": "",
+            "image": ""
+        },
+        {
+            "id": 268,
+            "name": "ancient spring",
+            "description": "",
+            "hearts_recovered": "",
+            "creature_sources": [],
+            "common_locations": [],
+            "cooking_effect": "",
+            "image": ""
+        },
+        {
+            "id": 269,
+            "name": "giant ancient core",
+            "description": "",
+            "hearts_recovered": "",
+            "creature_sources": [],
+            "common_locations": [],
+            "cooking_effect": "",
+            "image": ""
+        },
+        {
+            "id": 270,
+            "name": "amber",
+            "description": "",
+            "hearts_recovered": "",
+            "creature_sources": [],
+            "common_locations": [],
+            "cooking_effect": "",
+            "image": ""
+        },
+        {
+            "id": 271,
+            "name": "luminous stone",
+            "description": "",
+            "hearts_recovered": "",
+            "creature_sources": [],
+            "common_locations": [],
+            "cooking_effect": "",
+            "image": ""
+        },
+        {
+            "id": 272,
+            "name": "opal",
+            "description": "",
+            "hearts_recovered": "",
+            "creature_sources": [],
+            "common_locations": [],
+            "cooking_effect": "",
+            "image": ""
+        },
+        {
+            "id": 273,
+            "name": "diamond",
+            "description": "",
+            "hearts_recovered": "",
+            "creature_sources": [],
+            "common_locations": [],
+            "cooking_effect": "",
+            "image": ""
+        },
+        {
+            "id": 274,
+            "name": "ruby",
+            "description": "",
+            "hearts_recovered": "",
+            "creature_sources": [],
+            "common_locations": [],
+            "cooking_effect": "",
+            "image": ""
+        },
+        {
+            "id": 275,
+            "name": "sapphire",
+            "description": "",
+            "hearts_recovered": "",
+            "creature_sources": [],
+            "common_locations": [],
+            "cooking_effect": "",
+            "image": ""
+        },
+        {
+            "id": 276,
+            "name": "wood",
+            "description": "",
+            "hearts_recovered": "",
+            "creature_sources": [],
+            "common_locations": [],
+            "cooking_effect": "",
+            "image": ""
+        },
+        {
+            "id": 277,
+            "name": "flint",
+            "description": "",
+            "hearts_recovered": "",
+            "creature_sources": [],
+            "common_locations": [],
+            "cooking_effect": "",
+            "image": ""
+        }
+    ]
+}
