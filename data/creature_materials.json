@@ -1,0 +1,67 @@
+{
+    "data": [
+        {   
+            "id": 201,
+            "name": "raw gourmet meat",
+            "description": "",
+            "hearts_recovered": 3.0,
+            "creature_sources": [ 
+                "water buffalo",
+                "snowcoat fox", 
+                "maraudo wolf",
+                "wasteland coyote",
+                "cold-footed wolf",
+                "tabantha moose",
+                "great-horned rhinoceros",
+                "honeyvore bear",
+                "grizzlemaw bear"
+            ],
+            "common_locations": [
+                "Hyrule Castle Dining Hall"
+            ],
+            "cooking_effect": "",
+            "image": ""  
+        },
+        {
+            "id": 202,
+            "name": "raw meat",
+            "description": "",
+            "hearts_recovered": 1.0,
+            "creature_sources": [
+                "woodland boar", 
+                "grassland fox", 
+                "mountain goat"
+            ],
+            "common_locations": [
+                "Hyrule Castle Dining Hall"
+            ],
+            "cooking_effect": "",
+            "image": ""  
+        },
+        {
+            "id": 203,
+            "name": "raw prime meat",
+            "description": "",
+            "hearts_recovered": 1.5,
+            "creature_sources": [
+                "red-tusked boar", 
+                "mountain buck", 
+                "mountain doe",
+                "water buffalo",
+                "snowcoat fox",
+                "maraudo wolf",
+                "wasteland coyote",
+                "cold-footed wolf",
+                "tabantha moose",
+                "great-horned rhinoceros",
+                "honeyvore bear",
+                "grizzlemaw bear"
+            ],
+            "common_locations": [
+                "Hyrule Castle Dining Hall"
+            ],
+            "cooking_effect": "",
+            "image": ""  
+        }
+    ] 
+}

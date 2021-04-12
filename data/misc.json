@@ -2,67 +2,30 @@
     "misc": [
         {
             "name": "tabantha wheat",
-            "type": "misc",
-            "heals": 1,            
-            "creature-sources": [],
-            "merchant-sources": [                
-                "Spera",
-                "Yammo"
-            ], 
-            "store-sources": [
-                "Rito Village's Slippery Falcon"
-            ],
-            "location-sources": [
+            "description": "",
+            "hearts_recovered": 1.0,
+            "common_locations": [
                 "Cutting grass all over Tabantha Frontier"
             ],
-            "drops": [],
-            "uses": ["cooking"],            
-            "minCost": 12,
-            "maxCost": 12,
-            "minValue": 3,
-            "maxValue": 3,
+            "cooking_effect": "",
             "image": ""  
         },
         {
             "name": "goat butter",
-            "type": "misc",
-            "heals": 0,            
-            "creature-sources": [],
-            "merchant-sources": [                
-                "Agus"
-            ], 
-            "store-sources": [
-                "High Spirits Produce",
-                "Rito Village's Slippery Falcon"
+            "description": "",
+            "hearts_recovered": 0.0,            
+            "common_locations": [
             ],
-            "location-sources": [
-            ],
-            "drops": [],
-            "uses": ["cooking"],            
-            "minCost": 12,
-            "maxCost": 12,
-            "minValue": 3,
-            "maxValue": 7,
+            "cooking_effect": "",
             "image": ""  
         },
         {
             "name": "star fragment",
-            "type": "misc",
-            "heals": 0,            
-            "creature-sources": [],
-            "merchant-sources": [
-            ], 
-            "store-sources": [
-            ],
-            "location-sources": [
+            "hearts_recovered": 0.0,
+            "common_locations": [
                 "Falls from the night sky"
             ],
-            "drops": [],
-            "uses": ["cooking", "Armor", "Dye"],            
-            "minCost": null,
-            "maxCost": null,
-            "minValue": 300,
-            "maxValue": 300,
+            "cooking_effect": "",
             "image": ""  
         }     
     ] 
