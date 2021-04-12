@@ -1,0 +1,28 @@
+{
+    "misc": [
+        {
+            "id": 0,
+            "name": "Tabantha Wheat",
+            "type": "misc",
+            "heals": 1,            
+            "creature-sources": [],
+            "merchant-sources": [                
+                "Spera",
+                "Yammo"
+            ], 
+            "store-sources": [
+                "Rito Village's Slippery Falcon"
+            ],
+            "location-sources": [
+                "Cutting grass all over Tabantha Frontier"
+            ],
+            "drops": [],
+            "uses": ["Cooking"],            
+            "minCost": 12,
+            "maxCost": 12,
+            "minValue": 3,
+            "maxValue": 3,
+            "image": ""  
+        }
+    ] 
+}

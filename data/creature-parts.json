@@ -1,0 +1,88 @@
+{
+    "creature-parts": [
+        {
+            "id": 0,
+            "name": "Raw Gourmet Meat",
+            "type": "creature-parts",
+            "heals": 3,
+            "creature-sources": [
+                "Bears", 
+                "Great-Horned Rhinoceros", 
+                "Snowcoat Foxes", 
+                "Tabantha Moose",
+                "Water Buffalos", 
+                "Wolves"
+            ],
+            "merchant-sources": [
+                "Mezer", 
+                "Stamm"
+            ], 
+            "store-sources": [],
+            "location-sources": [
+                "Hyrule Castle Dining Hall"
+            ],
+            "drops": [],
+            "uses": ["Cooking"],
+            "minCost": 35,
+            "maxCost": 35,
+            "minValue": 35,
+            "maxValue": 100,
+            "image": ""  
+        },
+        {
+            "id": 1,
+            "name": "Raw Meat",
+            "type": "creature-parts",
+            "heals": 1,
+            "creature-sources": [
+                "Boars", 
+                "Foxes", 
+                "Mountain Goat"
+            ],
+            "merchant-sources": [
+                "Mezer"
+            ], 
+            "store-sources": [],
+            "location-sources": [
+                "Hyrule Castle Dining Hall"
+            ],
+            "drops": [],
+            "uses": ["Cooking"],
+            "minCost": 32,
+            "maxCost": 32,
+            "minValue": 8,
+            "maxValue": 20,
+            "image": ""  
+        },
+        {
+            "id": 2,
+            "name": "Raw Prime Meat",
+            "type": "creature-parts",
+            "heals": 1.5,
+            "creature-sources": [
+                "Bears", 
+                "Deers", 
+                "Red-Tusked Boar",
+                "Rhinoceros",
+                "Snowcoat Foxes",
+                "Water Buffalos",
+                "Wolves"
+            ],
+            "merchant-sources": [
+                "Mezer",
+                "Stamm"
+            ], 
+            "store-sources": [],
+            "location-sources": [
+                "Hyrule Castle Dining Hall"
+            ],
+            "drops": [],
+            "uses": ["Cooking"],
+            "minCost": 60,
+            "maxCost": 60,
+            "minValue": 15,
+            "maxValue": 15,
+            "image": ""  
+        }
+    ] 
+}
