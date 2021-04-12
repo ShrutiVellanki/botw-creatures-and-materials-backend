@@ -1,7 +1,6 @@
 {
-    "data": [
+    "creatures": [
         {
-            "id": 1,
             "name": "horse",
             "location-sources": [
                 "Hyrule Field",
@@ -11,21 +10,18 @@
             "image": ""
         },
         {
-            "id": 2,
             "name": "giant horse",
             "location-sources": null,
             "drops": [],
             "image": ""
         },
         {
-            "id": 3,
             "name": "white horse",
             "location-sources": null,
             "drops": null,
             "image": ""
         },
         {
-            "id": 4,
             "name": "lord of the mountain",
             "location-sources": [
                 "Satori Mountain"
@@ -34,7 +30,6 @@
             "image": ""
         },
         {
-            "id": 5,
             "name": "stalhorse",
             "location-sources": [
                 "Hebra Mountains",
@@ -44,7 +39,6 @@
             "image": ""
         },
         {
-            "id": 6,
             "name": "donkey",
             "location-sources": [
                 "Greater Hyrule"
@@ -53,7 +47,6 @@
             "image": ""
         },
         {
-            "id": 7,
             "name": "sand seal",
             "location-sources": [
                 "Gerudo Desert"
@@ -62,7 +55,6 @@
             "image": ""
         },
         {
-            "id": 8,
             "name": "patricia",
             "location-sources": [
                 "Gerudo Desert"
@@ -71,7 +63,6 @@
             "image": ""
         },
         {
-            "id": 9,
             "name": "bushy-tailed squirrel",
             "location-sources": [
                 "Hyrule Field",
@@ -83,7 +74,6 @@
             "image": ""
         },
         {
-            "id": 10,
             "name": "woodland boar",
             "location-sources": [
                 "Hyrule Field",
@@ -95,7 +85,6 @@
             "image": ""
         },
         {
-            "id": 11,
             "name": "red-tusked boar",
             "location-sources": [
                 "Akkala Highlands",
@@ -107,7 +96,6 @@
             "image": ""
         },
         {
-            "id": 12,
             "name": "mountain goat",
             "location-sources": [
                 "Hyrule Ridge",
@@ -119,7 +107,6 @@
             "image": ""
         },
         {
-            "id": 13,
             "name": "white goat",
             "location-sources": [
                 "West Necluda",
@@ -129,7 +116,6 @@
             "image": ""
         },
         {
-            "id": 14,
             "name": "mountain buck",
             "location-sources": [
                 "Hyrule Field",
@@ -141,7 +127,6 @@
             "image": ""
         },
         {
-            "id": 15,
             "name": "mountain doe",
             "location-sources": [
                 "Hyrule Field",
@@ -153,7 +138,6 @@
             "image": ""
         },
         {
-            "id": 16,
             "name": "water buffalo",
             "location-sources": [
                 "Lanayru Wetlands",
@@ -166,7 +150,6 @@
             "image": ""
         },
         {
-            "id": 17,
             "name": "hateno cow",
             "location-sources": [
                 "East Necluda",
@@ -176,7 +159,6 @@
             "image": ""
         },
         {
-            "id": 18,
             "name": "highland sheep",
             "location-sources": [
                 "East Necluda",
@@ -186,7 +168,6 @@
             "image": ""
         },
         {
-            "id": 19,
             "name": "grassland fox",
             "location-sources": [
                 "Hyrule Field",
@@ -198,7 +179,6 @@
             "image": ""
         },
         {
-            "id": 20,
             "name": "snowcoat fox",
             "location-sources": [
                 "Hebra Mountains",
@@ -211,7 +191,6 @@
             "image": ""
         },
         {
-            "id": 21,
             "name": "maraudo wolf",
             "location-sources": [
                 "Tabantha Frontier",
@@ -224,7 +203,6 @@
             "image": ""
         },
         {
-            "id": 22,
             "name": "wasteland coyote",
             "location-sources": [
                 "Gerudo Desert",
@@ -237,7 +215,6 @@
             "image": ""
         },
         {
-            "id": 23,
             "name": "cold-footed wolf",
             "location-sources": [
                 "Hebra Mountains",
@@ -250,7 +227,6 @@
             "image": ""
         },
         {
-            "id": 24,
             "name": "tabantha moose",
             "location-sources": [
                 "Hebra Mountains",
@@ -263,7 +239,6 @@
             "image": ""
         },
         {
-            "id": 25,
             "name": "great-horned rhinoceros",
             "location-sources": [
                 "Hebra Mountains",
@@ -276,7 +251,6 @@
             "image": ""
         },
         {
-            "id": 26,
             "name": "honeyvore bear",
             "location-sources": [
                 "Tabantha Frontier",
@@ -290,7 +264,6 @@
             "image": ""
         },
         {
-            "id": 27,
             "name": "grizzlemaw bear",
             "location-sources": [
                 "Hebra Mountains",
@@ -304,7 +277,6 @@
             "image": ""
         },
         {
-            "id": 28,
             "name": "hylian retriever",
             "location-sources": [
                 "Akkala Highlands",
@@ -314,7 +286,6 @@
             "image": ""
         },
         {
-            "id": 29,
             "name": "blupee",
             "location-sources": [
                 "Satori Mountain"
@@ -323,7 +294,6 @@
             "image": ""
         },
         {
-            "id": 30,
             "name": "common sparrow",
             "location-sources": [
                 "Hyrule Field",
@@ -335,7 +305,6 @@
             "image": ""
         },
         {
-            "id": 31,
             "name": "red sparrow",
             "location-sources": [
                 "Hebra Mountains",
@@ -348,7 +317,6 @@
             "image": ""
         },
         {
-            "id": 32,
             "name": "blue sparrow",
             "location-sources": [
                 "Lanayru Great Spring",
@@ -360,7 +328,6 @@
             "image": ""
         },
         {
-            "id": 33,
             "name": "rainbow sparrow",
             "location-sources": [
                 "Faron Grasslands",
@@ -373,7 +340,6 @@
             "image": ""
         },
         {
-            "id": 34,
             "name": "sand sparrow",
             "location-sources": [
                 "Gerudo Desert"
@@ -384,7 +350,6 @@
             "image": ""
         },
         {
-            "id": 35,
             "name": "golden sparrow",
             "location-sources": [
                 "Great Hyrule Forest",
@@ -396,7 +361,6 @@
             "image": ""
         },
         {
-            "id": 36,
             "name": "wood pigeon",
             "location-sources": [
                 "Great Hyrule Forest",
@@ -408,7 +372,6 @@
             "image": ""
         },
         {
-            "id": 37,
             "name": "rainbow pigeon",
             "location-sources": [
                 "Hyrule Ridge",
@@ -421,7 +384,6 @@
             "image": ""
         },
         {
-            "id": 38,
             "name": "hotfeather pigeon",
             "location-sources": [
                 "Eldin Canyon",
@@ -433,7 +395,6 @@
             "image": ""
         },
         {
-            "id": 39,
             "name": "white pigeon",
             "location-sources": [
                 "Hebra Mountains",
@@ -446,7 +407,6 @@
             "image": ""
         },
         {
-            "id": 40,
             "name": "mountain crow",
             "location-sources": [
                 "Hyrule Ridge",
@@ -458,7 +418,6 @@
             "image": ""
         },
         {
-            "id": 41,
             "name": "bright-chested duck",
             "location-sources": [
                 "Hyrule Ridge",
@@ -470,7 +429,6 @@
             "image": ""
         },
         {
-            "id": 42,
             "name": "blue-winged heron",
             "location-sources": [
                 "Hyrule Ridge",
@@ -482,7 +440,6 @@
             "image": ""
         },
         {
-            "id": 43,
             "name": "pink heron",
             "location-sources": [
                 "Hyrule Ridge",
@@ -494,7 +451,6 @@
             "image": ""
         },
         {
-            "id": 44,
             "name": "islander hawk",
             "location-sources": [
                 "Hyrule Field",
@@ -506,7 +462,6 @@
             "image": ""
         },
         {
-            "id": 45,
             "name": "seagull",
             "location-sources": [
                 "Necluda Sea",
@@ -518,7 +473,6 @@
             "image": ""
         },
         {
-            "id": 46,
             "name": "eldin ostrich",
             "location-sources": [
                 "Eldin Canyon",
@@ -531,7 +485,6 @@
             "image": ""
         },
         {
-            "id": 47,
             "name": "cucco",
             "location-sources": [
                 "West Necluda",
@@ -543,7 +496,6 @@
             "image": ""
         },
         {
-            "id": 48,
             "name": "hyrule bass",
             "location-sources": [
                 "Hyrule Field",
@@ -555,7 +507,6 @@
             "image": ""
         },
         {
-            "id": 49,
             "name": "hearty bass",
             "location-sources": [
                 "West Necluda",
@@ -567,7 +518,6 @@
             "image": ""
         },
         {
-            "id": 50,
             "name": "staminoka bass",
             "location-sources": [
                 "Hyrule Field",
@@ -579,7 +529,6 @@
             "image": ""
         },
         {
-            "id": 51,
             "name": "hearty salmon",
             "location-sources": [
                 "Tabantha Frontier",
@@ -591,7 +540,6 @@
             "image": ""
         },
         {
-            "id": 52,
             "name": "chillfin trout",
             "location-sources": [
                 "Tabantha Frontier",
@@ -603,7 +551,6 @@
             "image": ""
         },
         {
-            "id": 53,
             "name": "sizzlefin trout",
             "location-sources": [
                 "Eldin Canyon",
@@ -615,7 +562,6 @@
             "image": ""
         },
         {
-            "id": 54,
             "name": "voltfin trout",
             "location-sources": [
                 "Tabantha Frontier",
@@ -627,7 +573,6 @@
             "image": ""
         },
         {
-            "id": 55,
             "name": "stealthfin trout",
             "location-sources": [
                 "Great Hyrule Forest",
@@ -639,7 +584,6 @@
             "image": ""
         },
         {
-            "id": 56,
             "name": "mighty carp",
             "location-sources": [
                 "Akkala Highlands",
@@ -651,7 +595,6 @@
             "image": ""
         },
         {
-            "id": 57,
             "name": "armored carp",
             "location-sources": [
                 "Lanayru Great Spring",
@@ -663,7 +606,6 @@
             "image": ""
         },
         {
-            "id": 58,
             "name": "sanke carp",
             "location-sources": [
                 "West Necluda"
@@ -674,7 +616,6 @@
             "image": ""
         },
         {
-            "id": 59,
             "name": "mighty porgy",
             "location-sources": [
                 "Necluda Sea",
@@ -686,7 +627,6 @@
             "image": ""
         },
         {
-            "id": 60,
             "name": "armored porgy",
             "location-sources": [
                 "Necluda Sea",
@@ -698,7 +638,6 @@
             "image": ""
         },
         {
-            "id": 61,
             "name": "sneaky river snail",
             "location-sources": [
                 "West Necluda",
@@ -710,7 +649,6 @@
             "image": ""
         },
         {
-            "id": 62,
             "name": "hearty blueshell snail",
             "location-sources": [
                 "Lanayru Sea",
@@ -722,7 +660,6 @@
             "image": ""
         },
         {
-            "id": 66,
             "name": "fairy",
             "location-sources": [
                 "Greater Hyrule"
@@ -733,7 +670,6 @@
             "image": ""
         },
         {
-            "id": 67,
             "name": "winterwing butterfly",
             "location-sources": [
                 "Hyrule Ridge",
@@ -745,7 +681,6 @@
             "image": ""
         },
         {
-            "id": 68,
             "name": "summerwing butterfly",
             "location-sources": [
                 "Great Hyrule Forest",
@@ -757,7 +692,6 @@
             "image": ""
         },
         {
-            "id": 69,
             "name": "thunderwing butterfly",
             "location-sources": [
                 "Hyrule Ridge",
@@ -769,7 +703,6 @@
             "image": ""
         },
         {
-            "id": 70,
             "name": "smotherwing butterfly",
             "location-sources": [
                 "Eldin Canyon",
@@ -781,7 +714,6 @@
             "image": ""
         },
         {
-            "id": 71,
             "name": "cold darner",
             "location-sources": [
                 "Tabantha Frontier",
@@ -793,7 +725,6 @@
             "image": ""
         },
         {
-            "id": 72,
             "name": "warm darner",
             "location-sources": [
                 "Akkala Highlands",
@@ -805,7 +736,6 @@
             "image": ""
         },
         {
-            "id": 73,
             "name": "electric darner",
             "location-sources": [
                 "Hyrule Ridge",
@@ -817,7 +747,6 @@
             "image": ""
         },
         {
-            "id": 74,
             "name": "restless cricket",
             "location-sources": [
                 "Hyrule Field",
@@ -829,7 +758,6 @@
             "image": ""
         },
         {
-            "id": 75,
             "name": "bladed rhino beetle",
             "location-sources": [
                 "West Necluda",
@@ -841,7 +769,6 @@
             "image": ""
         },
         {
-            "id": 76,
             "name": "rugged rhino beetle",
             "location-sources": [
                 "Hyrule Field",
@@ -853,7 +780,6 @@
             "image": ""
         },
         {
-            "id": 77,
             "name": "energetic rhino beetle",
             "location-sources": [
                 "Akkala Highlands",
@@ -865,7 +791,6 @@
             "image": ""
         },
         {
-            "id": 78,
             "name": "sunset firefly",
             "location-sources": [
                 "West Necluda",
@@ -877,7 +802,6 @@
             "image": ""
         },
         {
-            "id": 79,
             "name": "hot-footed frog",
             "location-sources": [
                 "Lanayru Great Spring",
@@ -889,7 +813,6 @@
             "image": ""
         },
         {
-            "id": 80,
             "name": "tireless frog",
             "location-sources": [
                 "Lanayru Great Spring",
@@ -901,7 +824,6 @@
             "image": ""
         },
         {
-            "id": 81,
             "name": "hightail lizard",
             "location-sources": [
                 "West Necluda",
@@ -913,7 +835,6 @@
             "image": ""
         },
         {
-            "id": 82,
             "name": "hearty lizard",
             "location-sources": [
                 "Gerudo Desert",
@@ -925,7 +846,6 @@
             "image": ""
         },
         {
-            "id": 83,
             "name": "fireproof lizard",
             "location-sources": [
                 "Eldin Canyon",
