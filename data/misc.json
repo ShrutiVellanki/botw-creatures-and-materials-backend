@@ -1,7 +1,6 @@
 {
     "misc": [
         {
-            "id": 0,
             "name": "tabantha wheat",
             "type": "misc",
             "heals": 1,            
@@ -17,7 +16,7 @@
                 "Cutting grass all over Tabantha Frontier"
             ],
             "drops": [],
-            "uses": ["Cooking"],            
+            "uses": ["cooking"],            
             "minCost": 12,
             "maxCost": 12,
             "minValue": 3,
@@ -25,7 +24,6 @@
             "image": ""  
         },
         {
-            "id": 1,
             "name": "goat butter",
             "type": "misc",
             "heals": 0,            
@@ -40,7 +38,7 @@
             "location-sources": [
             ],
             "drops": [],
-            "uses": ["Cooking"],            
+            "uses": ["cooking"],            
             "minCost": 12,
             "maxCost": 12,
             "minValue": 3,
@@ -48,7 +46,6 @@
             "image": ""  
         },
         {
-            "id": 2,
             "name": "star fragment",
             "type": "misc",
             "heals": 0,            
@@ -61,7 +58,7 @@
                 "Falls from the night sky"
             ],
             "drops": [],
-            "uses": ["Cooking", "Armor", "Dye"],            
+            "uses": ["cooking", "Armor", "Dye"],            
             "minCost": null,
             "maxCost": null,
             "minValue": 300,

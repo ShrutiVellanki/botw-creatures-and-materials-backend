@@ -1,0 +1,969 @@
+{
+    "data": [
+        {
+            "name": "chuchu",
+            "location-sources": [
+                "Hyrule Field",
+                "West Necluda"
+            ],
+            "drops": [
+                "chuchu jelly"
+            ],
+            "image": ""
+        },
+        {
+            "name": "fire chuchu",
+            "location-sources": [
+                "Eldin Canyon",
+                "Eldin Mountains"
+            ],
+            "drops": [
+                "red chuchu jelly"
+            ],
+            "image": ""
+        },
+        {
+            "name": "ice chuchu",
+            "location-sources": [
+                "Gerudo Highlands",
+                "Hebra Mountains"
+            ],
+            "drops": [
+                "white chuchu jelly"
+            ],
+            "image": ""
+        },
+        {
+            "name": "electric chuchu",
+            "location-sources": [
+                "Gerudo Highlands",
+                "East Necluda"
+            ],
+            "drops": [
+                "yellow chuchu jelly"
+            ],
+            "image": ""
+        },
+        {
+            "name": "keese",
+            "location-sources": [
+                "Hyrule Field",
+                "East Necluda"
+            ],
+            "drops": [
+                "keese wing",
+                "keese eyeball"
+            ],
+            "image": ""
+        },
+        {
+            "name": "fire keese",
+            "location-sources": [
+                "Eldin Canyon",
+                "Eldin Mountains"
+            ],
+            "drops": [
+                "fire keese wing",
+                "keese eyeball"
+            ],
+            "image": ""
+        },
+        {
+            "name": "ice keese",
+            "location-sources": [
+                "Hebra Mountains",
+                "Gerudo Highlands"
+            ],
+            "drops": [
+                "ice keese wing",
+                "keese eyeball"
+            ],
+            "image": ""
+        },
+        {
+            "name": "electric keese",
+            "location-sources": [
+                "Lanayru Great Spring",
+                "East Necluda"
+            ],
+            "drops": [
+                "electric keese wing",
+                "keese eyeball"
+            ],
+            "image": ""
+        },
+        {
+            "name": "water octorok",
+            "location-sources": [
+                "West Necluda",
+                "Hyrule Field"
+            ],
+            "drops": [
+                "octorok tentacle",
+                "octo balloon",
+                "octorok eyeball"
+            ],
+            "image": ""
+        },
+        {
+            "name": "forest octorok",
+            "location-sources": [
+                "Hyrule Ridge",
+                "Deep Akkala"
+            ],
+            "drops": [
+                "octorok tentacle",
+                "octo balloon",
+                "octorok eyeball"
+            ],
+            "image": ""
+        },
+        {
+            "name": "rock octorok",
+            "location-sources": [
+                "Eldin Canyon",
+                "Gerudo Highlands"
+            ],
+            "drops": [
+                "octorok tentacle",
+                "octo balloon",
+                "octorok eyeball"
+            ],
+            "image": ""
+        },
+        {
+            "name": "snow octorok",
+            "location-sources": [
+                "Gerudo Highlands",
+                "Tabantha Frontier"
+            ],
+            "drops": [
+                "octorok tentacle",
+                "octo balloon",
+                "octorok eyeball"
+            ],
+            "image": ""
+        },
+        {
+            "name": "treasure octorok",
+            "location-sources": [
+                "Gerudo Highlands",
+                "Gerudo Desert"
+            ],
+            "drops": [
+                "octorok tentacle",
+                "octo balloon",
+                "octorok eyeball",
+                "green rupee",
+                "blue rupee",
+                "red rupee",
+                "purple rupee",
+                "silver rupee"
+            ],
+            "image": ""
+        },
+        {
+            "name": "fire wizzrobe",
+            "location-sources": [
+                "Hyrule Field",
+                "Great Hyrule Forest"
+            ],
+            "drops": [],
+            "image": ""
+        },
+        {
+            "name": "ice wizzrobe",
+            "location-sources": [
+                "Gerudo Highlands",
+                "Hyrule Field"
+            ],
+            "drops": [],
+            "image": ""
+        },
+        {
+            "name": "electric wizzrobe",
+            "location-sources": [
+                "Hyrule Ridge",
+                "West Necluda"
+            ],
+            "drops": [],
+            "image": ""
+        },
+        {
+            "name": "meteo wizzrobe",
+            "location-sources": [
+                "Hyrule Field",
+                "Eldin Canyon"
+            ],
+            "drops": [],
+            "image": ""
+        },
+        {
+            "name": "blizzrobe",
+            "location-sources": [
+                "Hyrule Field",
+                "Hebra Mountains"
+            ],
+            "drops": [],
+            "image": ""
+        },
+        {
+            "name": "thunder wizzrobe",
+            "location-sources": [
+                "Hyrule Field",
+                "Tabantha Frontier"
+            ],
+            "drops": [],
+            "image": ""
+        },
+        {
+            "name": "bokoblin",
+            "location-sources": [
+                "Hyrule Field",
+                "West Necluda"
+            ],
+            "drops": [
+                "bokoblin horn",
+                "bokoblin fang"
+            ],
+            "image": ""
+        },
+        {
+            "name": "blue bokoblin",
+            "location-sources": [
+                "Gerudo Desert",
+                "Gerudo Highlands"
+            ],
+            "drops": [
+                "bokoblin horn",
+                "bokoblin fang",
+                "bokoblin guts"
+            ],
+            "image": ""
+        },
+        {
+            "name": "black bokoblin",
+            "location-sources": [
+                "Hyrule Field",
+                "Gerudo Highlands"
+            ],
+            "drops": [
+                "bokoblin horn",
+                "bokoblin fang",
+                "bokoblin guts"
+            ],
+            "image": ""
+        },
+        {
+            "name": "stalkoblin",
+            "location-sources": [
+                "Hyrule Field",
+                "Great Hyrule Forest"
+            ],
+            "drops": [
+                "bokoblin horn",
+                "bokoblin fang"
+            ],
+            "image": ""
+        },
+        {
+            "name": "silver bokoblin",
+            "location-sources": null,
+            "drops": [
+                "bokoblin horn",
+                "bokoblin fang",
+                "bokoblin guts",
+                "amber",
+                "opal",
+                "topaz",
+                "ruby",
+                "sapphire",
+                "diamond"
+            ],
+            "image": ""
+        },
+        {
+            "name": "moblin",
+            "location-sources": [
+                "Hyrule Field",
+                "East Necluda"
+            ],
+            "drops": [
+                "moblin horn",
+                "moblin fang"
+            ],
+            "image": ""
+        },
+        {
+            "name": "blue moblin",
+            "location-sources": [
+                "Hyrule Field",
+                "Deep Akkala"
+            ],
+            "drops": [
+                "moblin horn",
+                "moblin fang",
+                "moblin guts"
+            ],
+            "image": ""
+        },
+        {
+            "name": "black moblin",
+            "location-sources": [
+                "Hyrule Field",
+                "Eldin Canyon"
+            ],
+            "drops": [
+                "moblin horn",
+                "moblin fang",
+                "moblin guts"
+            ],
+            "image": ""
+        },
+        {
+            "name": "stalmoblin",
+            "location-sources": [
+                "Great Hyrule Forest",
+                "Gerudo Highlands"
+            ],
+            "drops": [
+                "moblin horn",
+                "moblin fang"
+            ],
+            "image": ""
+        },
+        {
+            "name": "silver moblin",
+            "location-sources": null,
+            "drops": [
+                "moblin horn",
+                "moblin fang",
+                "moblin guts",
+                "amber",
+                "opal",
+                "topaz",
+                "ruby",
+                "sapphire",
+                "diamond"
+            ],
+            "image": ""
+        },
+        {
+            "name": "lizalfos",
+            "location-sources": [
+                "Lanayru Great Spring",
+                "Gerudo Desert"
+            ],
+            "drops": [
+                "lizalfos horn",
+                "lizalfos talon"
+            ],
+            "image": ""
+        },
+        {
+            "name": "blue lizalfos",
+            "location-sources": [
+                "Tabantha Frontier",
+                "Gerudo Desert"
+            ],
+            "drops": [
+                "lizalfos horn",
+                "lizalfos talon",
+                "lizalfos tail"
+            ],
+            "image": ""
+        },
+        {
+            "name": "black lizalfos",
+            "location-sources": [
+                "Hyrule Field",
+                "Hebra Mountains"
+            ],
+            "drops": [
+                "lizalfos horn",
+                "lizalfos talon",
+                "lizalfos tail"
+            ],
+            "image": ""
+        },
+        {
+            "name": "stalizalfos",
+            "location-sources": [
+                "Gerudo Desert",
+                "Hyrule Ridge"
+            ],
+            "drops": [
+                "lizalfos horn",
+                "lizalfos talon"
+            ],
+            "image": ""
+        },
+        {
+            "name": "fire-breath lizalfos",
+            "location-sources": [
+                "Eldin Canyon",
+                "Gerudo Desert"
+            ],
+            "drops": [
+                "lizalfos horn",
+                "lizalfos talon",
+                "red lizalfos tail"
+            ],
+            "image": ""
+        },
+        {
+            "name": "ice-breath lizalfos",
+            "location-sources": [
+                "Gerudo Highlands",
+                "Hebra Mountains"
+            ],
+            "drops": [
+                "lizalfos horn",
+                "lizalfos talon",
+                "icy lizalfos tail"
+            ],
+            "image": ""
+        },
+        {
+            "name": "electric lizalfos",
+            "location-sources": [
+                "Gerudo Desert",
+                "Hyrule Ridge"
+            ],
+            "drops": [
+                "lizalfos horn",
+                "lizalfos tail",
+                "yellow lizalfos tail"
+            ],
+            "image": ""
+        },
+        {
+            "name": "silver lizalfos",
+            "location-sources": null,
+            "drops": [
+                "lizalfos horn",
+                "lizalfos talon",
+                "lizalfos tail",
+                "amber",
+                "opal",
+                "topaz",
+                "ruby",
+                "sapphire",
+                "diamond"
+            ],
+            "image": ""
+        },
+        {
+            "name": "lynel",
+            "location-sources": [
+                "Lanayru Great Spring",
+                "Hyrule Field"
+            ],
+            "drops": [
+                "lynel horn",
+                "lynel hoof",
+                "lynel guts"
+            ],
+            "image": ""
+        },
+        {
+            "name": "blue-maned lynel",
+            "location-sources": [
+                "Hyrule Field",
+                "Deep Akkala"
+            ],
+            "drops": [
+                "lynel horn",
+                "lynel hoof",
+                "lynel guts"
+            ],
+            "image": ""
+        },
+        {
+            "name": "white-maned lynel",
+            "location-sources": [
+                "Hyrule Field",
+                "Hebra Mountains"
+            ],
+            "drops": [
+                "lynel horn",
+                "lynel hoof",
+                "lynel guts"
+            ],
+            "image": ""
+        },
+        {
+            "name": "silver lynel",
+            "location-sources": null,
+            "drops": [
+                "lynel horn",
+                "lynel hoof",
+                "lynel guts",
+                "topaz",
+                "ruby",
+                "sapphire",
+                "diamond",
+                "star fragment"
+            ],
+            "image": ""
+        },
+        {
+            "name": "guardian stalker",
+            "location-sources": [
+                "Hyrule Field"
+            ],
+            "drops": [
+                "ancient screw",
+                "ancient spring",
+                "ancient gear",
+                "ancient shaft",
+                "ancient core",
+                "giant ancient core"
+            ],
+            "image": ""
+        },
+        {
+            "name": "guardian skywatcher",
+            "location-sources": [
+                "Hyrule Field",
+                "Akkala Highlands"
+            ],
+            "drops": [
+                "ancient screw",
+                "ancient spring",
+                "ancient gear",
+                "ancient shaft",
+                "ancient core",
+                "giant ancient core"
+            ],
+            "image": ""
+        },
+        {
+            "name": "guardian turret",
+            "location-sources": [
+                "Hyrule Castle"
+            ],
+            "drops": [
+                "ancient screw",
+                "ancient spring",
+                "ancient gear",
+                "ancient shaft",
+                "ancient core",
+                "giant ancient core"
+            ],
+            "image": ""
+        },
+        {
+            "name": "sentry",
+            "location-sources": [
+                "Death Mountain"
+            ],
+            "drops": [
+                "ancient screw",
+                "ancient spring",
+                "ancient gear",
+                "ancient shaft",
+                "ancient core"
+            ],
+            "image": ""
+        },
+        {
+            "name": "decayed guardian",
+            "location-sources": [
+                "Hyrule Field",
+                "Hyrule Castle"
+            ],
+            "drops": [
+                "ancient screw",
+                "ancient spring",
+                "ancient gear",
+                "ancient shaft"
+            ],
+            "image": ""
+        },
+        {
+            "name": "guardian scout i",
+            "location-sources": null,
+            "drops": [
+                "ancient screw",
+                "ancient spring"
+            ],
+            "image": ""
+        },
+        {
+            "name": "guardian scout ii",
+            "location-sources": null,
+            "drops": [
+                "ancient screw",
+                "ancient spring",
+                "ancient gear",
+                "ancient shaft"
+            ],
+            "image": ""
+        },
+        {
+            "name": "guardian scout iii",
+            "location-sources": null,
+            "drops": [
+                "ancient screw",
+                "ancient spring",
+                "ancient gear",
+                "ancient shaft",
+                "ancient core"
+            ],
+            "image": ""
+        },
+        {
+            "name": "guardian scout iv",
+            "location-sources": null,
+            "drops": [
+                "ancient screw",
+                "ancient spring",
+                "ancient gear",
+                "ancient shaft",
+                "ancient core"
+            ],
+            "image": ""
+        },
+        {
+            "name": "yiga footsoldier",
+            "location-sources": null,
+            "drops": [
+                "green rupee",
+                "blue rupee",
+                "red rupee",
+                "purple rupee",
+                "mighty bananas"
+            ],
+            "image": ""
+        },
+        {
+            "name": "yiga blademaster",
+            "location-sources": null,
+            "drops": [
+                "amber",
+                "opal",
+                "topaz",
+                "ruby",
+                "sapphire",
+                "mighty bananas"
+            ],
+            "image": ""
+        },
+        {
+            "name": "master kohga",
+            "location-sources": [
+                "Yiga Clan Hideout"
+            ],
+            "drops": [],
+            "image": ""
+        },
+        {
+            "name": "monk maz koshia",
+            "location-sources": null,
+            "drops": [],
+            "image": ""
+        },
+        {
+            "name": "stone talus",
+            "location-sources": [
+                "West Necluda",
+                "East Necluda"
+            ],
+            "drops": [
+                "flint",
+                "amber",
+                "opal",
+                "ruby"
+            ],
+            "image": ""
+        },
+        {
+            "name": "stone talus (luminous)",
+            "location-sources": [
+                "Gerudo Highlands",
+                "Hyrule Field"
+            ],
+            "drops": [
+                "flint",
+                "amber",
+                "opal",
+                "luminous stone",
+                "topaz",
+                "diamond"
+            ],
+            "image": ""
+        },
+        {
+            "name": "stone talus (rare)",
+            "location-sources": [
+                "Hyrule Field",
+                "Tabantha Frontier"
+            ],
+            "drops": [
+                "flint",
+                "amber",
+                "opal",
+                "topaz",
+                "ruby",
+                "sapphire",
+                "diamond"
+            ],
+            "image": ""
+        },
+        {
+            "name": "igneo talus",
+            "location-sources": [
+                "Eldin Canyon"
+            ],
+            "drops": [
+                "flint",
+                "opal",
+                "ruby",
+                "diamond"
+            ],
+            "image": ""
+        },
+        {
+            "name": "frost talus",
+            "location-sources": [
+                "Hebra Mountains",
+                "Gerudo Highlands"
+            ],
+            "drops": [
+                "flint",
+                "opal",
+                "sapphire",
+                "diamond"
+            ],
+            "image": ""
+        },
+        {
+            "name": "stone pebblit",
+            "location-sources": [
+                "Greater Hyrule"
+            ],
+            "drops": [
+                "flint",
+                "amber",
+                "opal"
+            ],
+            "image": ""
+        },
+        {
+            "name": "igneo pebblit",
+            "location-sources": [
+                "Eldin Canyon",
+                "Eldin Mountains"
+            ],
+            "drops": [
+                "flint",
+                "amber",
+                "ruby"
+            ],
+            "image": ""
+        },
+        {
+            "name": "frost pebblit",
+            "location-sources": [
+                "Hebra Mountains",
+                "Gerudo Highlands"
+            ],
+            "drops": [
+                "flint",
+                "amber",
+                "sapphire"
+            ],
+            "image": ""
+        },
+        {
+            "name": "igneo talus titan",
+            "location-sources": null,
+            "drops": [],
+            "image": ""
+        },
+        {
+            "name": "hinox",
+            "location-sources": [
+                "East Necluda",
+                "West Necluda"
+            ],
+            "drops": [
+                "hinox toenail",
+                "hinox tooth",
+                "hinox guts",
+                "apple",
+                "wildberry",
+                "palm fruit",
+                "voltfruit",
+                "mighty bananas",
+                "fortified pumpkin",
+                "hearty durian"
+            ],
+            "image": ""
+        },
+        {
+            "name": "blue hinox",
+            "location-sources": [
+                "Hyrule Field",
+                "Lanayru Great Spring"
+            ],
+            "drops": [
+                "hinox toenail",
+                "hinox tooth",
+                "hinox guts",
+                "roasted bass",
+                "roasted hearty bass",
+                "roasted hearty salmon",
+                "roasted trout",
+                "roasted carp",
+                "roasted porgy",
+                "sneaky river escargot",
+                "blueshell escargot",
+                "blackened crab"
+            ],
+            "image": ""
+        },
+        {
+            "name": "black hinox",
+            "location-sources": [
+                "East Necluda",
+                "Hyrule Field"
+            ],
+            "drops": [
+                "hinox toenail",
+                "hinox tooth",
+                "hinox guts",
+                "seared steak",
+                "seared prime steak",
+                "seared gourmet steak",
+                "roasted bird drumstick",
+                "roasted bird thigh",
+                "roasted whole bird"
+            ],
+            "image": ""
+        },
+        {
+            "name": "stalnox",
+            "location-sources": [
+                "Hyrule Field",
+                "West Necluda"
+            ],
+            "drops": [
+                "hinox tooth"
+            ],
+            "image": ""
+        },
+        {
+            "name": "molduga",
+            "location-sources": [
+                "Gerudo Desert"
+            ],
+            "drops": [
+                "molduga fin",
+                "molduga guts"
+            ],
+            "image": ""
+        },
+        {
+            "name": "molduking",
+            "location-sources": null,
+            "drops": [
+                "treasures"
+            ],
+            "image": ""
+        },
+        {
+            "name": "dinraal",
+            "location-sources": [
+                "Eldin Mountains",
+                "Tabantha Frontier"
+            ],
+            "drops": null,
+            "image": ""
+        },
+        {
+            "name": "naydra",
+            "location-sources": [
+                "Mount Lanayru"
+            ],
+            "drops": null,
+            "image": ""
+        },
+        {
+            "name": "farosh",
+            "location-sources": [
+                "Lake Hylia",
+                "Lake Floria"
+            ],
+            "drops": null,
+            "image": ""
+        },
+        {
+            "name": "cursed bokoblin",
+            "location-sources": null,
+            "drops": [],
+            "image": ""
+        },
+        {
+            "name": "cursed moblin",
+            "location-sources": null,
+            "drops": [],
+            "image": ""
+        },
+        {
+            "name": "cursed lizalfos",
+            "location-sources": null,
+            "drops": [],
+            "image": ""
+        },
+        {
+            "name": "thunderblight ganon",
+            "location-sources": [
+                "Divine Beast Vah Naboris"
+            ],
+            "drops": [],
+            "image": ""
+        },
+        {
+            "name": "fireblight ganon",
+            "location-sources": [
+                "Divine Beast Vah Rudania"
+            ],
+            "drops": [],
+            "image": ""
+        },
+        {
+            "name": "waterblight ganon",
+            "location-sources": [
+                "Divine Beast Vah Ruta"
+            ],
+            "drops": [],
+            "image": ""
+        },
+        {
+            "name": "windblight ganon",
+            "location-sources": [
+                "Divine Beast Vah Medoh"
+            ],
+            "drops": [],
+            "image": ""
+        },
+        {
+            "name": "calamity ganon",
+            "location-sources": [
+                "Hyrule Castle"
+            ],
+            "drops": [],
+            "image": ""
+        },
+        {
+            "name": "dark beast ganon",
+            "location-sources": [
+                "Hyrule Field"
+            ],
+            "drops": [],
+            "image": ""
+        }
+    ]
+}

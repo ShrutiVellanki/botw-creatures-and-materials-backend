@@ -1,7 +1,6 @@
 {
     "creature-parts": [
         {
-            "id": 0,
             "name": "raw gourmet meat",
             "type": "creature-parts",
             "heals": 3,
@@ -25,7 +24,7 @@
                 "Hyrule Castle Dining Hall"
             ],
             "drops": [],
-            "uses": ["Cooking"],
+            "uses": ["cooking"],
             "minCost": 35,
             "maxCost": 35,
             "minValue": 35,
@@ -33,7 +32,6 @@
             "image": ""  
         },
         {
-            "id": 1,
             "name": "Raw Meat",
             "type": "creature-parts",
             "heals": 1,
@@ -50,7 +48,7 @@
                 "Hyrule Castle Dining Hall"
             ],
             "drops": [],
-            "uses": ["Cooking"],
+            "uses": ["cooking"],
             "minCost": 32,
             "maxCost": 32,
             "minValue": 8,
@@ -58,7 +56,6 @@
             "image": ""  
         },
         {
-            "id": 2,
             "name": "Raw Prime Meat",
             "type": "creature-parts",
             "heals": 1.5,
@@ -85,7 +82,7 @@
                 "Hyrule Castle Dining Hall"
             ],
             "drops": [],
-            "uses": ["Cooking"],
+            "uses": ["cooking"],
             "minCost": 60,
             "maxCost": 60,
             "minValue": 15,
