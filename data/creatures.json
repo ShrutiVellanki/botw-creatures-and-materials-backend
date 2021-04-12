@@ -1,0 +1,940 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "horse",
+            "location-sources": [
+                "Hyrule Field",
+                "Faron Grasslands"
+            ],
+            "drops": [],
+            "image": ""
+        },
+        {
+            "id": 2,
+            "name": "giant horse",
+            "location-sources": null,
+            "drops": [],
+            "image": ""
+        },
+        {
+            "id": 3,
+            "name": "white horse",
+            "location-sources": null,
+            "drops": null,
+            "image": ""
+        },
+        {
+            "id": 4,
+            "name": "lord of the mountain",
+            "location-sources": [
+                "Satori Mountain"
+            ],
+            "drops": null,
+            "image": ""
+        },
+        {
+            "id": 5,
+            "name": "stalhorse",
+            "location-sources": [
+                "Hebra Mountains",
+                "Akkala Highlands"
+            ],
+            "drops": [],
+            "image": ""
+        },
+        {
+            "id": 6,
+            "name": "donkey",
+            "location-sources": [
+                "Greater Hyrule"
+            ],
+            "drops": [],
+            "image": ""
+        },
+        {
+            "id": 7,
+            "name": "sand seal",
+            "location-sources": [
+                "Gerudo Desert"
+            ],
+            "drops": [],
+            "image": ""
+        },
+        {
+            "id": 8,
+            "name": "patricia",
+            "location-sources": [
+                "Gerudo Desert"
+            ],
+            "drops": [],
+            "image": ""
+        },
+        {
+            "id": 9,
+            "name": "bushy-tailed squirrel",
+            "location-sources": [
+                "Hyrule Field",
+                "Hyrule Ridge"
+            ],
+            "drops": [
+                "acorn"
+            ],
+            "image": ""
+        },
+        {
+            "id": 10,
+            "name": "woodland boar",
+            "location-sources": [
+                "Hyrule Field",
+                "Lanayru Great Spring"
+            ],
+            "drops": [
+                "raw meat"
+            ],
+            "image": ""
+        },
+        {
+            "id": 11,
+            "name": "red-tusked boar",
+            "location-sources": [
+                "Akkala Highlands",
+                "Deep Akkala"
+            ],
+            "drops": [
+                "raw prime meat"
+            ],
+            "image": ""
+        },
+        {
+            "id": 12,
+            "name": "mountain goat",
+            "location-sources": [
+                "Hyrule Ridge",
+                "Great Hyrule Forest"
+            ],
+            "drops": [
+                "raw meat"
+            ],
+            "image": ""
+        },
+        {
+            "id": 13,
+            "name": "white goat",
+            "location-sources": [
+                "West Necluda",
+                "Eldin Canyon"
+            ],
+            "drops": [],
+            "image": ""
+        },
+        {
+            "id": 14,
+            "name": "mountain buck",
+            "location-sources": [
+                "Hyrule Field",
+                "Lanayru Great Spring"
+            ],
+            "drops": [
+                "raw prime meat"
+            ],
+            "image": ""
+        },
+        {
+            "id": 15,
+            "name": "mountain doe",
+            "location-sources": [
+                "Hyrule Field",
+                "Lanayru Great Spring"
+            ],
+            "drops": [
+                "raw prime meat"
+            ],
+            "image": ""
+        },
+        {
+            "id": 16,
+            "name": "water buffalo",
+            "location-sources": [
+                "Lanayru Wetlands",
+                "Akkala Highlands"
+            ],
+            "drops": [
+                "raw prime meat",
+                "raw gourmet meat"
+            ],
+            "image": ""
+        },
+        {
+            "id": 17,
+            "name": "hateno cow",
+            "location-sources": [
+                "East Necluda",
+                "Faron Grasslands"
+            ],
+            "drops": [],
+            "image": ""
+        },
+        {
+            "id": 18,
+            "name": "highland sheep",
+            "location-sources": [
+                "East Necluda",
+                "Akkala Highlands"
+            ],
+            "drops": [],
+            "image": ""
+        },
+        {
+            "id": 19,
+            "name": "grassland fox",
+            "location-sources": [
+                "Hyrule Field",
+                "Lanayru Great Spring"
+            ],
+            "drops": [
+                "raw meat"
+            ],
+            "image": ""
+        },
+        {
+            "id": 20,
+            "name": "snowcoat fox",
+            "location-sources": [
+                "Hebra Mountains",
+                "Tabantha Frontier"
+            ],
+            "drops": [
+                "raw prime meat",
+                "raw gourmet meat"
+            ],
+            "image": ""
+        },
+        {
+            "id": 21,
+            "name": "maraudo wolf",
+            "location-sources": [
+                "Tabantha Frontier",
+                "Great Hyrule Forest"
+            ],
+            "drops": [
+                "raw prime meat",
+                "raw gourmet meat"
+            ],
+            "image": ""
+        },
+        {
+            "id": 22,
+            "name": "wasteland coyote",
+            "location-sources": [
+                "Gerudo Desert",
+                "Gerudo Highlands"
+            ],
+            "drops": [
+                "raw prime meat",
+                "raw gourmet meat"
+            ],
+            "image": ""
+        },
+        {
+            "id": 23,
+            "name": "cold-footed wolf",
+            "location-sources": [
+                "Hebra Mountains",
+                "Gerudo Highlands"
+            ],
+            "drops": [
+                "raw prime meat",
+                "raw gourmet meat"
+            ],
+            "image": ""
+        },
+        {
+            "id": 24,
+            "name": "tabantha moose",
+            "location-sources": [
+                "Hebra Mountains",
+                "Gerudo Highlands"
+            ],
+            "drops": [
+                "raw prime meat",
+                "raw gourmet meat"
+            ],
+            "image": ""
+        },
+        {
+            "id": 25,
+            "name": "great-horned rhinoceros",
+            "location-sources": [
+                "Hebra Mountains",
+                "Gerudo Highlands"
+            ],
+            "drops": [
+                "raw prime meat",
+                "raw gourmet meat"
+            ],
+            "image": ""
+        },
+        {
+            "id": 26,
+            "name": "honeyvore bear",
+            "location-sources": [
+                "Tabantha Frontier",
+                "Akkala Highlands",
+                "Crenel Peak"
+            ],
+            "drops": [
+                "raw prime meat",
+                "raw gourmet meat"
+            ],
+            "image": ""
+        },
+        {
+            "id": 27,
+            "name": "grizzlemaw bear",
+            "location-sources": [
+                "Hebra Mountains",
+                "Gerudo Highlands"
+            ],
+            "drops": [
+                "raw prime meat",
+                "raw gourmet meat",
+                "hearty salmon"
+            ],
+            "image": ""
+        },
+        {
+            "id": 28,
+            "name": "hylian retriever",
+            "location-sources": [
+                "Akkala Highlands",
+                "Hebra Mountains"
+            ],
+            "drops": [],
+            "image": ""
+        },
+        {
+            "id": 29,
+            "name": "blupee",
+            "location-sources": [
+                "Satori Mountain"
+            ],
+            "drops": null,
+            "image": ""
+        },
+        {
+            "id": 30,
+            "name": "common sparrow",
+            "location-sources": [
+                "Hyrule Field",
+                "Hyrule Ridge"
+            ],
+            "drops": [
+                "chickaloo tree nut"
+            ],
+            "image": ""
+        },
+        {
+            "id": 31,
+            "name": "red sparrow",
+            "location-sources": [
+                "Hebra Mountains",
+                "Tabantha Frontier",
+                "Rito Stable"
+            ],
+            "drops": [
+                "chickaloo tree nut"
+            ],
+            "image": ""
+        },
+        {
+            "id": 32,
+            "name": "blue sparrow",
+            "location-sources": [
+                "Lanayru Great Spring",
+                "Great Hyrule Forest"
+            ],
+            "drops": [
+                "chickaloo tree nut"
+            ],
+            "image": ""
+        },
+        {
+            "id": 33,
+            "name": "rainbow sparrow",
+            "location-sources": [
+                "Faron Grasslands",
+                "West Necluda",
+                "Floria Bridge"
+            ],
+            "drops": [
+                "chickaloo tree nut"
+            ],
+            "image": ""
+        },
+        {
+            "id": 34,
+            "name": "sand sparrow",
+            "location-sources": [
+                "Gerudo Desert"
+            ],
+            "drops": [
+                "chickaloo tree nut"
+            ],
+            "image": ""
+        },
+        {
+            "id": 35,
+            "name": "golden sparrow",
+            "location-sources": [
+                "Great Hyrule Forest",
+                "Eldin Canyon"
+            ],
+            "drops": [
+                "chickaloo tree nut"
+            ],
+            "image": ""
+        },
+        {
+            "id": 36,
+            "name": "wood pigeon",
+            "location-sources": [
+                "Great Hyrule Forest",
+                "Hyrule Ridge"
+            ],
+            "drops": [
+                "raw bird drumstick"
+            ],
+            "image": ""
+        },
+        {
+            "id": 37,
+            "name": "rainbow pigeon",
+            "location-sources": [
+                "Hyrule Ridge",
+                "Great Hyrule Forest",
+                "Seres Scablands"
+            ],
+            "drops": [
+                "raw bird thigh"
+            ],
+            "image": ""
+        },
+        {
+            "id": 38,
+            "name": "hotfeather pigeon",
+            "location-sources": [
+                "Eldin Canyon",
+                "Eldin Mountains"
+            ],
+            "drops": [
+                "raw bird thigh"
+            ],
+            "image": ""
+        },
+        {
+            "id": 39,
+            "name": "white pigeon",
+            "location-sources": [
+                "Hebra Mountains",
+                "Gerudo Highlands"
+            ],
+            "drops": [
+                "raw bird thigh",
+                "raw whole bird"
+            ],
+            "image": ""
+        },
+        {
+            "id": 40,
+            "name": "mountain crow",
+            "location-sources": [
+                "Hyrule Ridge",
+                "Great Hyrule Forest"
+            ],
+            "drops": [
+                "raw bird drumstick"
+            ],
+            "image": ""
+        },
+        {
+            "id": 41,
+            "name": "bright-chested duck",
+            "location-sources": [
+                "Hyrule Ridge",
+                "Hyrule Field"
+            ],
+            "drops": [
+                "raw bird drumstick"
+            ],
+            "image": ""
+        },
+        {
+            "id": 42,
+            "name": "blue-winged heron",
+            "location-sources": [
+                "Hyrule Ridge",
+                "Faron Grasslands"
+            ],
+            "drops": [
+                "raw bird drumstick"
+            ],
+            "image": ""
+        },
+        {
+            "id": 43,
+            "name": "pink heron",
+            "location-sources": [
+                "Hyrule Ridge",
+                "Hyrule Field"
+            ],
+            "drops": [
+                "raw bird drumstick"
+            ],
+            "image": ""
+        },
+        {
+            "id": 44,
+            "name": "islander hawk",
+            "location-sources": [
+                "Hyrule Field",
+                "Hyrule Ridge"
+            ],
+            "drops": [
+                "raw bird thigh"
+            ],
+            "image": ""
+        },
+        {
+            "id": 45,
+            "name": "seagull",
+            "location-sources": [
+                "Necluda Sea",
+                "Akkala Sea"
+            ],
+            "drops": [
+                "raw bird drumstick"
+            ],
+            "image": ""
+        },
+        {
+            "id": 46,
+            "name": "eldin ostrich",
+            "location-sources": [
+                "Eldin Canyon",
+                "Eldin Mountains"
+            ],
+            "drops": [
+                "raw bird thigh",
+                "raw whole bird"
+            ],
+            "image": ""
+        },
+        {
+            "id": 47,
+            "name": "cucco",
+            "location-sources": [
+                "West Necluda",
+                "East Necluda"
+            ],
+            "drops": [
+                "bird egg"
+            ],
+            "image": ""
+        },
+        {
+            "id": 48,
+            "name": "hyrule bass",
+            "location-sources": [
+                "Hyrule Field",
+                "West Necluda"
+            ],
+            "heals": 1.0,
+            "cooking_effect": "",
+            "drops": [],
+            "image": ""
+        },
+        {
+            "id": 49,
+            "name": "hearty bass",
+            "location-sources": [
+                "West Necluda",
+                "Akkala Highlands"
+            ],
+            "heals": 2.0,
+            "cooking_effect": "extra hearts",
+            "drops": [],
+            "image": ""
+        },
+        {
+            "id": 50,
+            "name": "staminoka bass",
+            "location-sources": [
+                "Hyrule Field",
+                "West Necluda"
+            ],
+            "heals": 1.0,
+            "cooking_effect": "stamina recovery",
+            "drops": [],
+            "image": ""
+        },
+        {
+            "id": 51,
+            "name": "hearty salmon",
+            "location-sources": [
+                "Tabantha Frontier",
+                "Hebra Mountains"
+            ],
+            "heals": 4.0,
+            "cooking_effect": "extra hearts",
+            "drops": [],
+            "image": ""
+        },
+        {
+            "id": 52,
+            "name": "chillfin trout",
+            "location-sources": [
+                "Tabantha Frontier",
+                "Hebra Mountains"
+            ],
+            "heals": 1.0,
+            "cooking_effect": "heat resistance",
+            "drops": [],
+            "image": ""
+        },
+        {
+            "id": 53,
+            "name": "sizzlefin trout",
+            "location-sources": [
+                "Eldin Canyon",
+                "Eldin Mountains"
+            ],
+            "heals": 1.0,
+            "cooking_effect": "cold resistance",
+            "drops": [],
+            "image": ""
+        },
+        {
+            "id": 54,
+            "name": "voltfin trout",
+            "location-sources": [
+                "Tabantha Frontier",
+                "Hyrule Ridge"
+            ],
+            "heals": 1.0,
+            "cooking_effect": "shock resistance",
+            "drops": [],
+            "image": ""
+        },
+        {
+            "id": 55,
+            "name": "stealthfin trout",
+            "location-sources": [
+                "Great Hyrule Forest",
+                "Eldin Mountains"
+            ],
+            "heals": 1.0,
+            "cooking_effect": "stealth up",
+            "drops": [],
+            "image": ""
+        },
+        {
+            "id": 56,
+            "name": "mighty carp",
+            "location-sources": [
+                "Akkala Highlands",
+                "Lanayru Great Spring"
+            ],
+            "heals": 1.0,
+            "cooking_effect": "attack up",
+            "drops": [],
+            "image": ""
+        },
+        {
+            "id": 57,
+            "name": "armored carp",
+            "location-sources": [
+                "Lanayru Great Spring",
+                "East Necluda"
+            ],
+            "heals": 1.0,
+            "cooking_effect": "defense up",
+            "drops": [],
+            "image": ""
+        },
+        {
+            "id": 58,
+            "name": "sanke carp",
+            "location-sources": [
+                "West Necluda"
+            ],
+            "heals": 1.0,
+            "cooking_effect": "",
+            "drops": [],
+            "image": ""
+        },
+        {
+            "id": 59,
+            "name": "mighty porgy",
+            "location-sources": [
+                "Necluda Sea",
+                "Lanayru Sea"
+            ],
+            "heals": 1.0,
+            "cooking_effect": "attack up",
+            "drops": [],
+            "image": ""
+        },
+        {
+            "id": 60,
+            "name": "armored porgy",
+            "location-sources": [
+                "Necluda Sea",
+                "Lanayru Sea"
+            ],
+            "heals": 1.0,
+            "cooking_effect": "defense up",
+            "drops": [],
+            "image": ""
+        },
+        {
+            "id": 61,
+            "name": "sneaky river snail",
+            "location-sources": [
+                "West Necluda",
+                "Lanayru Great Spring"
+            ],
+            "heals": 1.0,
+            "cooking_effect": "stealth up",
+            "drops": [],
+            "image": ""
+        },
+        {
+            "id": 62,
+            "name": "hearty blueshell snail",
+            "location-sources": [
+                "Lanayru Sea",
+                "Necluda Sea"
+            ],
+            "heals": 1.0,
+            "cooking_effect": "extra hearts",
+            "drops": [],
+            "image": ""
+        },
+        {
+            "id": 66,
+            "name": "fairy",
+            "location-sources": [
+                "Greater Hyrule"
+            ],
+            "heals": 5.0,
+            "cooking_effect": "",
+            "drops": [],
+            "image": ""
+        },
+        {
+            "id": 67,
+            "name": "winterwing butterfly",
+            "location-sources": [
+                "Hyrule Ridge",
+                "Tabantha Frontier"
+            ],
+            "heals": 0.0,
+            "cooking_effect": "heat resistance",
+            "drops": [],
+            "image": ""
+        },
+        {
+            "id": 68,
+            "name": "summerwing butterfly",
+            "location-sources": [
+                "Great Hyrule Forest",
+                "Eldin Mountains"
+            ],
+            "heals": 0.0,
+            "cooking_effect": "cold resistance",
+            "drops": [],
+            "image": ""
+        },
+        {
+            "id": 69,
+            "name": "thunderwing butterfly",
+            "location-sources": [
+                "Hyrule Ridge",
+                "Gerudo Highlands"
+            ],
+            "heals": 0.0,
+            "cooking_effect": "shock resistance",
+            "drops": [],
+            "image": ""
+        },
+        {
+            "id": 70,
+            "name": "smotherwing butterfly",
+            "location-sources": [
+                "Eldin Canyon",
+                "Death Mountain"
+            ],
+            "heals": 0.0,
+            "cooking_effect": "flame guard",
+            "drops": [],
+            "image": ""
+        },
+        {
+            "id": 71,
+            "name": "cold darner",
+            "location-sources": [
+                "Tabantha Frontier",
+                "Hyrule Ridge"
+            ],
+            "heals": 0.0,
+            "cooking_effect": "heat resistance",
+            "drops": [],
+            "image": ""
+        },
+        {
+            "id": 72,
+            "name": "warm darner",
+            "location-sources": [
+                "Akkala Highlands",
+                "Hyrule Field"
+            ],
+            "heals": 0.0,
+            "cooking_effect": "cold resistance",
+            "drops": [],
+            "image": ""
+        },
+        {
+            "id": 73,
+            "name": "electric darner",
+            "location-sources": [
+                "Hyrule Ridge",
+                "Gerudo Desert"
+            ],
+            "heals": 0.0,
+            "cooking_effect": "shock resistance",
+            "drops": [],
+            "image": ""
+        },
+        {
+            "id": 74,
+            "name": "restless cricket",
+            "location-sources": [
+                "Hyrule Field",
+                "East Necluda"
+            ],
+            "heals": 0.0,
+            "cooking_effect": "stamina recovery",
+            "drops": [],
+            "image": ""
+        },
+        {
+            "id": 75,
+            "name": "bladed rhino beetle",
+            "location-sources": [
+                "West Necluda",
+                "East Necluda"
+            ],
+            "heals": 0.0,
+            "cooking_effect": "attack up",
+            "drops": [],
+            "image": ""
+        },
+        {
+            "id": 76,
+            "name": "rugged rhino beetle",
+            "location-sources": [
+                "Hyrule Field",
+                "Faron Grasslands"
+            ],
+            "heals": 0.0,
+            "cooking_effect": "defense up",
+            "drops": [],
+            "image": ""
+        },
+        {
+            "id": 77,
+            "name": "energetic rhino beetle",
+            "location-sources": [
+                "Akkala Highlands",
+                "West Necluda"
+            ],
+            "heals": 0.0,
+            "cooking_effect": "stamina recovery",
+            "drops": [],
+            "image": ""
+        },
+        {
+            "id": 78,
+            "name": "sunset firefly",
+            "location-sources": [
+                "West Necluda",
+                "Great Hyrule Forest"
+            ],
+            "heals": 0.0,
+            "cooking_effect": "stealth up",
+            "drops": [],
+            "image": ""
+        },
+        {
+            "id": 79,
+            "name": "hot-footed frog",
+            "location-sources": [
+                "Lanayru Great Spring",
+                "Hyrule Ridge"
+            ],
+            "heals": 0.0,
+            "cooking_effect": "speed up",
+            "drops": [],
+            "image": ""
+        },
+        {
+            "id": 80,
+            "name": "tireless frog",
+            "location-sources": [
+                "Lanayru Great Spring",
+                "Hyrule Ridge"
+            ],
+            "heals": 0.0,
+            "cooking_effect": "extra stamina",
+            "drops": [],
+            "image": ""
+        },
+        {
+            "id": 81,
+            "name": "hightail lizard",
+            "location-sources": [
+                "West Necluda",
+                "East Necluda"
+            ],
+            "heals": 0.0,
+            "cooking_effect": "speed up",
+            "drops": [],
+            "image": ""
+        },
+        {
+            "id": 82,
+            "name": "hearty lizard",
+            "location-sources": [
+                "Gerudo Desert",
+                "Necluda Sea"
+            ],
+            "heals": 0.0,
+            "cooking_effect": "extra hearts",
+            "drops": [],
+            "image": ""
+        },
+        {
+            "id": 83,
+            "name": "fireproof lizard",
+            "location-sources": [
+                "Eldin Canyon",
+                "Death Mountain"
+            ],
+            "heals": 0.0,
+            "cooking_effect": "flame guard",
+            "drops": [],
+            "image": ""
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "crabs": [
+        {
+            "id": 0,
+            "name": "bright-eyed crab",
+            "type": "crabs",
+            "heals": 1,            
+            "creature-sources": [],
+            "merchant-sources": [                
+                "Bugut",
+                "Chumin"
+            ], 
+            "store-sources": [
+            ],
+            "location-sources": [
+                "Eldin Canyon",
+                "Lanayru Great Spring", 
+                "Zora's Domain"
+            ],
+            "drops": [],
+            "uses": ["Cooking"],            
+            "minCost": 40,
+            "maxCost": 40,
+            "minValue": 10,
+            "maxValue": 10,
+            "image": ""  
+        },
+        {
+            "id": 1,
+            "name": "ironshell crab",
+            "type": "crabs",
+            "heals": 1,            
+            "creature-sources": [],
+            "merchant-sources": [
+            ], 
+            "store-sources": [
+            ],
+            "location-sources": [
+                "Necluda Sea",
+                "East Necluda", 
+                "Lurelin Village"
+            ],
+            "drops": [],
+            "uses": ["Cooking"],            
+            "minCost": 8,
+            "maxCost": 8,
+            "minValue": 8,
+            "maxValue": 8,
+            "image": ""  
+        },
+        {
+            "id": 2,
+            "name": "razorclaw crab",
+            "type": "crabs",
+            "heals": 1,            
+            "creature-sources": [],
+            "merchant-sources": [
+            ], 
+            "store-sources": [
+            ],
+            "location-sources": [
+                "Necluda Sea",
+                "East Necluda"
+            ],
+            "drops": [],
+            "uses": ["Cooking"],            
+            "minCost": 8,
+            "maxCost": 8,
+            "minValue": 8,
+            "maxValue": 8,
+            "image": ""  
+        }
+    ]
+}

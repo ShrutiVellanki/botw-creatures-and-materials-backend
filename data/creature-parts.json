@@ -2,16 +2,19 @@
     "creature-parts": [
         {
             "id": 0,
-            "name": "Raw Gourmet Meat",
+            "name": "raw gourmet meat",
             "type": "creature-parts",
             "heals": 3,
-            "creature-sources": [
-                "Bears", 
-                "Great-Horned Rhinoceros", 
-                "Snowcoat Foxes", 
-                "Tabantha Moose",
-                "Water Buffalos", 
-                "Wolves"
+            "creature-sources": [ 
+                "water buffalo",
+                "snowcoat fox", 
+                "maraudo wolf",
+                "wasteland coyote",
+                "cold-footed wolf",
+                "tabantha moose",
+                "great-horned rhinoceros",
+                "honeyvore bear",
+                "grizzlemaw bear"
             ],
             "merchant-sources": [
                 "Mezer", 
@@ -35,9 +38,9 @@
             "type": "creature-parts",
             "heals": 1,
             "creature-sources": [
-                "Boars", 
-                "Foxes", 
-                "Mountain Goat"
+                "woodland boar", 
+                "grassland fox", 
+                "mountain goat"
             ],
             "merchant-sources": [
                 "Mezer"
@@ -60,13 +63,18 @@
             "type": "creature-parts",
             "heals": 1.5,
             "creature-sources": [
-                "Bears", 
-                "Deers", 
-                "Red-Tusked Boar",
-                "Rhinoceros",
-                "Snowcoat Foxes",
-                "Water Buffalos",
-                "Wolves"
+                "red-tusked boar", 
+                "mountain buck", 
+                "mountain doe",
+                "water buffalo",
+                "snowcoat fox",
+                "maraudo wolf",
+                "wasteland coyote",
+                "cold-footed wolf",
+                "tabantha moose",
+                "great-horned rhinoceros",
+                "honeyvore bear",
+                "grizzlemaw bear"
             ],
             "merchant-sources": [
                 "Mezer",
