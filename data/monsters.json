@@ -1019,7 +1019,12 @@
                 "Eldin Mountains",
                 "Tabantha Frontier"
             ],
-            "drops": null,
+            "drops": [
+                "dinraal's claw",
+                "dinraal's scale",
+                "shard of dinraal's fang",
+                "shard of dinraal's horn"
+            ],
             "image": "https://botw-compendium.herokuapp.com/api/v2/entry/dinraal/image"
         },
         {
@@ -1029,7 +1034,12 @@
             "common_locations": [
                 "Mount Lanayru"
             ],
-            "drops": null,
+            "drops": [
+                "naydra's claw",
+                "naydra's scale",
+                "shard of naydra's fang",
+                "shard of naydra's horn"
+            ],
             "image": "https://botw-compendium.herokuapp.com/api/v2/entry/naydra/image"
         },
         {
@@ -1040,7 +1050,12 @@
                 "Lake Hylia",
                 "Lake Floria"
             ],
-            "drops": null,
+            "drops": [
+                "farosh's claw",
+                "farosh's scale",
+                "shard of farosh's fang",
+                "shard of farosh's horn"
+            ],
             "image": "https://botw-compendium.herokuapp.com/api/v2/entry/farosh/image"
         },
         {
