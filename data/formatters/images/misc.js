@@ -1,5 +1,4 @@
-{
-    "data": [
+ var monster_materials = [
         {
             "id": 207,
             "name": "goat butter",
@@ -7,7 +6,7 @@
             "hearts_recovered": "",
             "common_locations": [],
             "cooking_effect": "",
-            "image": "goat_butter.png"
+            "image": ""
         },
         {
             "id": 208,
@@ -16,7 +15,7 @@
             "hearts_recovered": "",
             "common_locations": [],
             "cooking_effect": "",
-            "image": "star_fragment.png"
+            "image": ""
         },
         {
             "id": 209,
@@ -25,7 +24,7 @@
             "hearts_recovered": "",
             "common_locations": [],
             "cooking_effect": "",
-            "image": "bird_egg.png"
+            "image": ""
         },
         {
             "id": 210,
@@ -34,7 +33,7 @@
             "hearts_recovered": "",
             "common_locations": [],
             "cooking_effect": "",
-            "image": "fresh_milk.png"
+            "image": ""
         },
         {
             "id": 211,
@@ -43,7 +42,7 @@
             "hearts_recovered": "",
             "common_locations": [],
             "cooking_effect": "",
-            "image": "acorn.png"
+            "image": ""
         },
         {
             "id": 212,
@@ -52,7 +51,7 @@
             "hearts_recovered": "",
             "common_locations": [],
             "cooking_effect": "",
-            "image": "chickaloo_tree_nut.png"
+            "image": ""
         },
         {
             "id": 213,
@@ -61,7 +60,7 @@
             "hearts_recovered": "",
             "common_locations": [],
             "cooking_effect": "",
-            "image": "tabantha_wheat.png"
+            "image": ""
         },
         {
             "id": 214,
@@ -70,7 +69,7 @@
             "hearts_recovered": "",
             "common_locations": [],
             "cooking_effect": "",
-            "image": "hylian_rice.png"
+            "image": ""
         },
         {
             "id": 215,
@@ -79,7 +78,7 @@
             "hearts_recovered": "",
             "common_locations": [],
             "cooking_effect": "",
-            "image": "rock_salt.png"
+            "image": ""
         },
         {
             "id": 216,
@@ -88,7 +87,7 @@
             "hearts_recovered": "",
             "common_locations": [],
             "cooking_effect": "",
-            "image": "cane_sugar.png"
+            "image": ""
         },
         {
             "id": 217,
@@ -97,7 +96,15 @@
             "hearts_recovered": "",
             "common_locations": [],
             "cooking_effect": "",
-            "image": "goron_spice.png"
+            "image": ""
         }
-    ]
+]
+
+for (let material of monster_materials) {
+    let name = material["name"];
+    name = name.split("'").join("27");
+    name = name.split(" ").join('_');
+    material["image"] = name + ".png";
 }
+
+console.log(monster_materials);

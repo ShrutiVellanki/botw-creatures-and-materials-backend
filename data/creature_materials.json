@@ -1,13 +1,13 @@
 {
     "data": [
-        {   
+        {
             "id": 201,
             "name": "raw gourmet meat",
-            "description": "This prized cut of meat is usually from a large animal. Any connoisseur would rank this tender, juicy cut of meat "gourmet." Expect an exquisite meal when cooking with this.",
-            "hearts_recovered": 3.0,
-            "creature_sources": [ 
+            "description": "This prized cut of meat is usually from a large animal. Any connoisseur would rank this tender, juicy cut of meat 'gourmet'. Expect an exquisite meal when cooking with this.",
+            "hearts_recovered": 3,
+            "creature_sources": [
                 "water buffalo",
-                "snowcoat fox", 
+                "snowcoat fox",
                 "maraudo wolf",
                 "wasteland coyote",
                 "cold-footed wolf",
@@ -20,23 +20,23 @@
                 "Hyrule Castle Dining Hall"
             ],
             "cooking_effect": "",
-            "image": ""  
+            "image": "raw_gourmet_meat.png"
         },
         {
             "id": 202,
             "name": "raw meat",
             "description": "Meat obtained from animals in plains and forests. You can eat it raw, but cooking it will make it more delicious and nutritious.",
-            "hearts_recovered": 1.0,
+            "hearts_recovered": 1,
             "creature_sources": [
-                "woodland boar", 
-                "grassland fox", 
+                "woodland boar",
+                "grassland fox",
                 "mountain goat"
             ],
             "common_locations": [
                 "Hyrule Castle Dining Hall"
             ],
             "cooking_effect": "",
-            "image": ""  
+            "image": "raw_meat.png"
         },
         {
             "id": 203,
@@ -44,8 +44,8 @@
             "description": "A fresh, high-quality piece of animal meat. This stuff isn't easy to come by, so savor it. Cook it to recover more hearts.",
             "hearts_recovered": 1.5,
             "creature_sources": [
-                "red-tusked boar", 
-                "mountain buck", 
+                "red-tusked boar",
+                "mountain buck",
                 "mountain doe",
                 "water buffalo",
                 "snowcoat fox",
@@ -61,7 +61,7 @@
                 "Hyrule Castle Dining Hall"
             ],
             "cooking_effect": "",
-            "image": ""  
+            "image": "raw_prime_meat.png"
         },
         {
             "id": 204,
@@ -71,7 +71,7 @@
             "creature_sources": [],
             "common_locations": [],
             "cooking_effect": "",
-            "image": ""
+            "image": "raw_bird_thigh.png"
         },
         {
             "id": 205,
@@ -81,7 +81,7 @@
             "creature_sources": [],
             "common_locations": [],
             "cooking_effect": "",
-            "image": ""
+            "image": "raw_bird_drumstick.png"
         },
         {
             "id": 206,
@@ -91,7 +91,7 @@
             "creature_sources": [],
             "common_locations": [],
             "cooking_effect": "",
-            "image": ""
+            "image": "raw_whole_bird.png"
         }
-    ] 
+    ]
 }
