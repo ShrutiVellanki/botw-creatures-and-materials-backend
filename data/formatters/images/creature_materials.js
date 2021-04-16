@@ -4,7 +4,7 @@ var monster_materials = [
         "name": "raw gourmet meat",
         "description": "This prized cut of meat is usually from a large animal. Any connoisseur would rank this tender, juicy cut of meat 'gourmet'. Expect an exquisite meal when cooking with this.",
         "hearts_recovered": 3.0,
-        "creature_sources": [ 
+        "dropped_by": [ 
             "water buffalo",
             "snowcoat fox", 
             "maraudo wolf",
@@ -26,7 +26,7 @@ var monster_materials = [
         "name": "raw meat",
         "description": "Meat obtained from animals in plains and forests. You can eat it raw, but cooking it will make it more delicious and nutritious.",
         "hearts_recovered": 1.0,
-        "creature_sources": [
+        "dropped_by": [
             "woodland boar", 
             "grassland fox", 
             "mountain goat"
@@ -42,7 +42,7 @@ var monster_materials = [
         "name": "raw prime meat",
         "description": "A fresh, high-quality piece of animal meat. This stuff isn't easy to come by, so savor it. Cook it to recover more hearts.",
         "hearts_recovered": 1.5,
-        "creature_sources": [
+        "dropped_by": [
             "red-tusked boar", 
             "mountain buck", 
             "mountain doe",
@@ -67,7 +67,7 @@ var monster_materials = [
         "name": "raw bird thigh",
         "description": "A high-quality piece of meat that's hard to come by. You can eat it raw, but cooking it first will recover more hearts.",
         "hearts_recovered": "",
-        "creature_sources": [],
+        "dropped_by": [],
         "common_locations": [],
         "cooking_effect": "",
         "image": ""
@@ -77,7 +77,7 @@ var monster_materials = [
         "name": "raw bird drumstick",
         "description": "This meat is tougher and chewier than a standard steak. Tastes better cooked.",
         "hearts_recovered": "",
-        "creature_sources": [],
+        "dropped_by": [],
         "common_locations": [],
         "cooking_effect": "",
         "image": ""
@@ -87,7 +87,7 @@ var monster_materials = [
         "name": "raw whole bird",
         "description": "This prized meat can be obtained from certain birds. It gets full points for flavor, nutrition, and volume. It pairs perfectly with other ingredients or can be enjoyed alone.",
         "hearts_recovered": "",
-        "creature_sources": [],
+        "dropped_by": [],
         "common_locations": [],
         "cooking_effect": "",
         "image": ""

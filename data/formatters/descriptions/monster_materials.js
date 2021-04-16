@@ -128,7 +128,7 @@ var data = [
         "name": "dinraal's claw",
         "description": "",
         "hearts_recovered": "",
-        "creature_sources": [],
+        "dropped_by": [],
         "common_locations": [],
         "cooking_effect": "",
         "image": ""
@@ -138,7 +138,7 @@ var data = [
         "name": "dinraal's scale",
         "description": "",
         "hearts_recovered": "",
-        "creature_sources": [],
+        "dropped_by": [],
         "common_locations": [],
         "cooking_effect": "",
         "image": ""
@@ -148,7 +148,7 @@ var data = [
         "name": "farosh's claw",
         "description": "",
         "hearts_recovered": "",
-        "creature_sources": [],
+        "dropped_by": [],
         "common_locations": [],
         "cooking_effect": "",
         "image": ""
@@ -158,7 +158,7 @@ var data = [
         "name": "farosh's scale",
         "description": "",
         "hearts_recovered": "",
-        "creature_sources": [],
+        "dropped_by": [],
         "common_locations": [],
         "cooking_effect": "",
         "image": ""
@@ -168,7 +168,7 @@ var data = [
         "name": "naydra's claw",
         "description": "",
         "hearts_recovered": "",
-        "creature_sources": [],
+        "dropped_by": [],
         "common_locations": [],
         "cooking_effect": "",
         "image": ""
@@ -178,7 +178,7 @@ var data = [
         "name": "naydra's scale",
         "description": "",
         "hearts_recovered": "",
-        "creature_sources": [],
+        "dropped_by": [],
         "common_locations": [],
         "cooking_effect": "",
         "image": ""
@@ -188,7 +188,7 @@ var data = [
         "name": "shard of dinraal's fang",
         "description": "",
         "hearts_recovered": "",
-        "creature_sources": [],
+        "dropped_by": [],
         "common_locations": [],
         "cooking_effect": "",
         "image": ""
@@ -198,7 +198,7 @@ var data = [
         "name": "shard of dinraal's horn",
         "description": "",
         "hearts_recovered": "",
-        "creature_sources": [],
+        "dropped_by": [],
         "common_locations": [],
         "cooking_effect": "",
         "image": ""
@@ -208,7 +208,7 @@ var data = [
         "name": "shard of farosh's fang",
         "description": "",
         "hearts_recovered": "",
-        "creature_sources": [],
+        "dropped_by": [],
         "common_locations": [],
         "cooking_effect": "",
         "image": ""
@@ -218,7 +218,7 @@ var data = [
         "name": "shard of farosh's horn",
         "description": "",
         "hearts_recovered": "",
-        "creature_sources": [],
+        "dropped_by": [],
         "common_locations": [],
         "cooking_effect": "",
         "image": ""
@@ -228,7 +228,7 @@ var data = [
         "name": "shard of naydra's fang",
         "description": "",
         "hearts_recovered": "",
-        "creature_sources": [],
+        "dropped_by": [],
         "common_locations": [],
         "cooking_effect": "",
         "image": ""
@@ -238,7 +238,7 @@ var data = [
         "name": "shard of naydra's horn",
         "description": "",
         "hearts_recovered": "",
-        "creature_sources": [],
+        "dropped_by": [],
         "common_locations": [],
         "cooking_effect": "",
         "image": ""
@@ -248,7 +248,7 @@ var data = [
         "name": "octo balloon",
         "description": "",
         "hearts_recovered": "",
-        "creature_sources": [],
+        "dropped_by": [],
         "common_locations": [],
         "cooking_effect": "",
         "image": ""
@@ -258,7 +258,7 @@ var data = [
         "name": "red chuchu jelly",
         "description": "",
         "hearts_recovered": "",
-        "creature_sources": [],
+        "dropped_by": [],
         "common_locations": [],
         "cooking_effect": "",
         "image": ""
@@ -268,7 +268,7 @@ var data = [
         "name": "bokoblin fang",
         "description": "",
         "hearts_recovered": "",
-        "creature_sources": [],
+        "dropped_by": [],
         "common_locations": [],
         "cooking_effect": "",
         "image": ""
@@ -278,7 +278,7 @@ var data = [
         "name": "bokoblin guts",
         "description": "",
         "hearts_recovered": "",
-        "creature_sources": [],
+        "dropped_by": [],
         "common_locations": [],
         "cooking_effect": "",
         "image": ""
@@ -288,7 +288,7 @@ var data = [
         "name": "bokoblin horn",
         "description": "",
         "hearts_recovered": "",
-        "creature_sources": [],
+        "dropped_by": [],
         "common_locations": [],
         "cooking_effect": "",
         "image": ""
@@ -298,7 +298,7 @@ var data = [
         "name": "chuchu jelly",
         "description": "",
         "hearts_recovered": "",
-        "creature_sources": [],
+        "dropped_by": [],
         "common_locations": [],
         "cooking_effect": "",
         "image": ""
@@ -308,7 +308,7 @@ var data = [
         "name": "electric keese wing",
         "description": "",
         "hearts_recovered": "",
-        "creature_sources": [],
+        "dropped_by": [],
         "common_locations": [],
         "cooking_effect": "",
         "image": ""
@@ -318,7 +318,7 @@ var data = [
         "name": "fire keese wing",
         "description": "",
         "hearts_recovered": "",
-        "creature_sources": [],
+        "dropped_by": [],
         "common_locations": [],
         "cooking_effect": "",
         "image": ""
@@ -328,7 +328,7 @@ var data = [
         "name": "hinox guts",
         "description": "",
         "hearts_recovered": "",
-        "creature_sources": [],
+        "dropped_by": [],
         "common_locations": [],
         "cooking_effect": "",
         "image": ""
@@ -338,7 +338,7 @@ var data = [
         "name": "hinox toenail",
         "description": "",
         "hearts_recovered": "",
-        "creature_sources": [],
+        "dropped_by": [],
         "common_locations": [],
         "cooking_effect": "",
         "image": ""
@@ -348,7 +348,7 @@ var data = [
         "name": "hinox tooth",
         "description": "",
         "hearts_recovered": "",
-        "creature_sources": [],
+        "dropped_by": [],
         "common_locations": [],
         "cooking_effect": "",
         "image": ""
@@ -358,7 +358,7 @@ var data = [
         "name": "ice keese wing",
         "description": "",
         "hearts_recovered": "",
-        "creature_sources": [],
+        "dropped_by": [],
         "common_locations": [],
         "cooking_effect": "",
         "image": ""
@@ -368,7 +368,7 @@ var data = [
         "name": "icy lizalfos tail",
         "description": "",
         "hearts_recovered": "",
-        "creature_sources": [],
+        "dropped_by": [],
         "common_locations": [],
         "cooking_effect": "",
         "image": ""
@@ -378,7 +378,7 @@ var data = [
         "name": "keese eyeball",
         "description": "",
         "hearts_recovered": "",
-        "creature_sources": [],
+        "dropped_by": [],
         "common_locations": [],
         "cooking_effect": "",
         "image": ""
@@ -388,7 +388,7 @@ var data = [
         "name": "keese wing",
         "description": "",
         "hearts_recovered": "",
-        "creature_sources": [],
+        "dropped_by": [],
         "common_locations": [],
         "cooking_effect": "",
         "image": ""
@@ -398,7 +398,7 @@ var data = [
         "name": "lizalfos horn",
         "description": "",
         "hearts_recovered": "",
-        "creature_sources": [],
+        "dropped_by": [],
         "common_locations": [],
         "cooking_effect": "",
         "image": ""
@@ -408,7 +408,7 @@ var data = [
         "name": "lizalfos tail",
         "description": "",
         "hearts_recovered": "",
-        "creature_sources": [],
+        "dropped_by": [],
         "common_locations": [],
         "cooking_effect": "",
         "image": ""
@@ -418,7 +418,7 @@ var data = [
         "name": "lizalfos talon",
         "description": "",
         "hearts_recovered": "",
-        "creature_sources": [],
+        "dropped_by": [],
         "common_locations": [],
         "cooking_effect": "",
         "image": ""
@@ -428,7 +428,7 @@ var data = [
         "name": "lynel guts",
         "description": "",
         "hearts_recovered": "",
-        "creature_sources": [],
+        "dropped_by": [],
         "common_locations": [],
         "cooking_effect": "",
         "image": ""
@@ -438,7 +438,7 @@ var data = [
         "name": "lynel hoof",
         "description": "",
         "hearts_recovered": "",
-        "creature_sources": [],
+        "dropped_by": [],
         "common_locations": [],
         "cooking_effect": "",
         "image": ""
@@ -448,7 +448,7 @@ var data = [
         "name": "lynel horn",
         "description": "",
         "hearts_recovered": "",
-        "creature_sources": [],
+        "dropped_by": [],
         "common_locations": [],
         "cooking_effect": "",
         "image": ""
@@ -458,7 +458,7 @@ var data = [
         "name": "moblin fang",
         "description": "",
         "hearts_recovered": "",
-        "creature_sources": [],
+        "dropped_by": [],
         "common_locations": [],
         "cooking_effect": "",
         "image": ""
@@ -468,7 +468,7 @@ var data = [
         "name": "moblin guts",
         "description": "",
         "hearts_recovered": "",
-        "creature_sources": [],
+        "dropped_by": [],
         "common_locations": [],
         "cooking_effect": "",
         "image": ""
@@ -478,7 +478,7 @@ var data = [
         "name": "moblin horn",
         "description": "",
         "hearts_recovered": "",
-        "creature_sources": [],
+        "dropped_by": [],
         "common_locations": [],
         "cooking_effect": "",
         "image": ""
@@ -488,7 +488,7 @@ var data = [
         "name": "molduga fin",
         "description": "",
         "hearts_recovered": "",
-        "creature_sources": [],
+        "dropped_by": [],
         "common_locations": [],
         "cooking_effect": "",
         "image": ""
@@ -498,7 +498,7 @@ var data = [
         "name": "molduga guts",
         "description": "",
         "hearts_recovered": "",
-        "creature_sources": [],
+        "dropped_by": [],
         "common_locations": [],
         "cooking_effect": "",
         "image": ""
@@ -508,7 +508,7 @@ var data = [
         "name": "octorok eyeball",
         "description": "",
         "hearts_recovered": "",
-        "creature_sources": [],
+        "dropped_by": [],
         "common_locations": [],
         "cooking_effect": "",
         "image": ""
@@ -518,7 +518,7 @@ var data = [
         "name": "octorok tentacle",
         "description": "",
         "hearts_recovered": "",
-        "creature_sources": [],
+        "dropped_by": [],
         "common_locations": [],
         "cooking_effect": "",
         "image": ""
@@ -528,7 +528,7 @@ var data = [
         "name": "red lizalfos tail",
         "description": "",
         "hearts_recovered": "",
-        "creature_sources": [],
+        "dropped_by": [],
         "common_locations": [],
         "cooking_effect": "",
         "image": ""
@@ -538,7 +538,7 @@ var data = [
         "name": "white chuchu jelly",
         "description": "",
         "hearts_recovered": "",
-        "creature_sources": [],
+        "dropped_by": [],
         "common_locations": [],
         "cooking_effect": "",
         "image": ""
@@ -548,7 +548,7 @@ var data = [
         "name": "yellow lizalfos tail",
         "description": "",
         "hearts_recovered": "",
-        "creature_sources": [],
+        "dropped_by": [],
         "common_locations": [],
         "cooking_effect": "",
         "image": ""
@@ -558,7 +558,7 @@ var data = [
         "name": "yellow chuchu jelly",
         "description": "",
         "hearts_recovered": "",
-        "creature_sources": [],
+        "dropped_by": [],
         "common_locations": [],
         "cooking_effect": "",
         "image": ""
@@ -568,7 +568,7 @@ var data = [
         "name": "monster extract",
         "description": "",
         "hearts_recovered": "",
-        "creature_sources": [],
+        "dropped_by": [],
         "common_locations": [],
         "cooking_effect": "",
         "image": ""
@@ -578,7 +578,7 @@ var data = [
         "name": "topaz",
         "description": "",
         "hearts_recovered": "",
-        "creature_sources": [],
+        "dropped_by": [],
         "common_locations": [],
         "cooking_effect": "",
         "image": ""
@@ -588,7 +588,7 @@ var data = [
         "name": "ancient core",
         "description": "",
         "hearts_recovered": "",
-        "creature_sources": [],
+        "dropped_by": [],
         "common_locations": [],
         "cooking_effect": "",
         "image": ""
@@ -598,7 +598,7 @@ var data = [
         "name": "ancient gear",
         "description": "",
         "hearts_recovered": "",
-        "creature_sources": [],
+        "dropped_by": [],
         "common_locations": [],
         "cooking_effect": "",
         "image": ""
@@ -608,7 +608,7 @@ var data = [
         "name": "ancient screw",
         "description": "",
         "hearts_recovered": "",
-        "creature_sources": [],
+        "dropped_by": [],
         "common_locations": [],
         "cooking_effect": "",
         "image": ""
@@ -618,7 +618,7 @@ var data = [
         "name": "ancient shaft",
         "description": "",
         "hearts_recovered": "",
-        "creature_sources": [],
+        "dropped_by": [],
         "common_locations": [],
         "cooking_effect": "",
         "image": ""
@@ -628,7 +628,7 @@ var data = [
         "name": "ancient spring",
         "description": "",
         "hearts_recovered": "",
-        "creature_sources": [],
+        "dropped_by": [],
         "common_locations": [],
         "cooking_effect": "",
         "image": ""
@@ -638,7 +638,7 @@ var data = [
         "name": "giant ancient core",
         "description": "",
         "hearts_recovered": "",
-        "creature_sources": [],
+        "dropped_by": [],
         "common_locations": [],
         "cooking_effect": "",
         "image": ""
@@ -648,7 +648,7 @@ var data = [
         "name": "amber",
         "description": "",
         "hearts_recovered": "",
-        "creature_sources": [],
+        "dropped_by": [],
         "common_locations": [],
         "cooking_effect": "",
         "image": ""
@@ -658,7 +658,7 @@ var data = [
         "name": "luminous stone",
         "description": "",
         "hearts_recovered": "",
-        "creature_sources": [],
+        "dropped_by": [],
         "common_locations": [],
         "cooking_effect": "",
         "image": ""
@@ -668,7 +668,7 @@ var data = [
         "name": "opal",
         "description": "",
         "hearts_recovered": "",
-        "creature_sources": [],
+        "dropped_by": [],
         "common_locations": [],
         "cooking_effect": "",
         "image": ""
@@ -678,7 +678,7 @@ var data = [
         "name": "diamond",
         "description": "",
         "hearts_recovered": "",
-        "creature_sources": [],
+        "dropped_by": [],
         "common_locations": [],
         "cooking_effect": "",
         "image": ""
@@ -688,7 +688,7 @@ var data = [
         "name": "ruby",
         "description": "",
         "hearts_recovered": "",
-        "creature_sources": [],
+        "dropped_by": [],
         "common_locations": [],
         "cooking_effect": "",
         "image": ""
@@ -698,7 +698,7 @@ var data = [
         "name": "sapphire",
         "description": "",
         "hearts_recovered": "",
-        "creature_sources": [],
+        "dropped_by": [],
         "common_locations": [],
         "cooking_effect": "",
         "image": ""
@@ -708,7 +708,7 @@ var data = [
         "name": "wood",
         "description": "",
         "hearts_recovered": "",
-        "creature_sources": [],
+        "dropped_by": [],
         "common_locations": [],
         "cooking_effect": "",
         "image": ""
@@ -718,7 +718,7 @@ var data = [
         "name": "flint",
         "description": "",
         "hearts_recovered": "",
-        "creature_sources": [],
+        "dropped_by": [],
         "common_locations": [],
         "cooking_effect": "",
         "image": ""
