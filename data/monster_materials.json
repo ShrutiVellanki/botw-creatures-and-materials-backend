@@ -8,7 +8,6 @@
             "dropped_by": [
                 "dinraal"
             ],
-            "common_locations": [],
             "cooking_effect": "",
             "image": "dinraal27s_claw.png"
         },
@@ -20,7 +19,6 @@
             "dropped_by": [
                 "dinraal"
             ],
-            "common_locations": [],
             "cooking_effect": "",
             "image": "dinraal27s_scale.png"
         },
@@ -32,7 +30,6 @@
             "dropped_by": [
                 "farosh"
             ],
-            "common_locations": [],
             "cooking_effect": "",
             "image": "farosh27s_claw.png"
         },
@@ -44,7 +41,6 @@
             "dropped_by": [
                 "farosh"
             ],
-            "common_locations": [],
             "cooking_effect": "",
             "image": "farosh27s_scale.png"
         },
@@ -56,7 +52,6 @@
             "dropped_by": [
                 "naydra"
             ],
-            "common_locations": [],
             "cooking_effect": "",
             "image": "naydra27s_claw.png"
         },
@@ -68,7 +63,6 @@
             "dropped_by": [
                 "naydra"
             ],
-            "common_locations": [],
             "cooking_effect": "",
             "image": "naydra27s_scale.png"
         },
@@ -80,7 +74,6 @@
             "dropped_by": [
                 "dinraal"
             ],
-            "common_locations": [],
             "cooking_effect": "",
             "image": "shard_of_dinraal27s_fang.png"
         },
@@ -92,7 +85,6 @@
             "dropped_by": [
                 "dinraal"
             ],
-            "common_locations": [],
             "cooking_effect": "",
             "image": "shard_of_dinraal27s_horn.png"
         },
@@ -104,7 +96,6 @@
             "dropped_by": [
                 "farosh"
             ],
-            "common_locations": [],
             "cooking_effect": "",
             "image": "shard_of_farosh27s_fang.png"
         },
@@ -116,7 +107,6 @@
             "dropped_by": [
                 "farosh"
             ],
-            "common_locations": [],
             "cooking_effect": "",
             "image": "shard_of_farosh27s_horn.png"
         },
@@ -128,7 +118,6 @@
             "dropped_by": [
                 "naydra"
             ],
-            "common_locations": [],
             "cooking_effect": "",
             "image": "shard_of_naydra27s_fang.png"
         },
@@ -140,7 +129,6 @@
             "dropped_by": [
                 "naydra"
             ],
-            "common_locations": [],
             "cooking_effect": "",
             "image": "shard_of_naydra27s_horn.png"
         },
@@ -156,7 +144,6 @@
                 "snow octorok",
                 "treasure octorok"
             ],
-            "common_locations": [],
             "cooking_effect": "",
             "image": "octo_balloon.png"
         },
@@ -168,7 +155,6 @@
             "dropped_by": [
                 "fire chuchu"
             ],
-            "common_locations": [],
             "cooking_effect": "",
             "image": "red_chuchu_jelly.png"
         },
@@ -184,7 +170,6 @@
                 "stalkoblin",
                 "silver bokoblin"
             ],
-            "common_locations": [],
             "cooking_effect": "",
             "image": "bokoblin_fang.png"
         },
@@ -198,7 +183,6 @@
                 "black bokoblin",
                 "silver bokoblin"
             ],
-            "common_locations": [],
             "cooking_effect": "",
             "image": "bokoblin_guts.png"
         },
@@ -214,7 +198,6 @@
                 "stalkoblin",
                 "silver bokoblin"
             ],
-            "common_locations": [],
             "cooking_effect": "",
             "image": "bokoblin_horn.png"
         },
@@ -226,7 +209,6 @@
             "dropped_by": [
                 "chuchu"
             ],
-            "common_locations": [],
             "cooking_effect": "",
             "image": "chuchu_jelly.png"
         },
@@ -238,7 +220,6 @@
             "dropped_by": [
                 "electric keese"
             ],
-            "common_locations": [],
             "cooking_effect": "",
             "image": "electric_keese_wing.png"
         },
@@ -250,7 +231,6 @@
             "dropped_by": [
                 "fire keese"
             ],
-            "common_locations": [],
             "cooking_effect": "",
             "image": "fire_keese_wing.png"
         },
@@ -264,7 +244,6 @@
                 "blue hinox",
                 "black hinox"
             ],
-            "common_locations": [],
             "cooking_effect": "",
             "image": "hinox_guts.png"
         },
@@ -278,7 +257,6 @@
                 "blue hinox",
                 "black hinox"
             ],
-            "common_locations": [],
             "cooking_effect": "",
             "image": "hinox_toenail.png"
         },
@@ -293,7 +271,6 @@
                 "black hinox",
                 "stalnox"
             ],
-            "common_locations": [],
             "cooking_effect": "",
             "image": "hinox_tooth.png"
         },
@@ -305,7 +282,6 @@
             "dropped_by": [
                 "ice keese"
             ],
-            "common_locations": [],
             "cooking_effect": "",
             "image": "ice_keese_wing.png"
         },
@@ -317,7 +293,6 @@
             "dropped_by": [
                 "ice-breath lizalfos"
             ],
-            "common_locations": [],
             "cooking_effect": "",
             "image": "icy_lizalfos_tail.png"
         },
@@ -332,7 +307,6 @@
                 "ice keese",
                 "electric keese"
             ],
-            "common_locations": [],
             "cooking_effect": "",
             "image": "keese_eyeball.png"
         },
@@ -344,7 +318,6 @@
             "dropped_by": [
                 "keese"
             ],
-            "common_locations": [],
             "cooking_effect": "",
             "image": "keese_wing.png"
         },
@@ -363,7 +336,6 @@
                 "electric lizalfos",
                 "silver lizalfos"
             ],
-            "common_locations": [],
             "cooking_effect": "",
             "image": "lizalfos_horn.png"
         },
@@ -378,7 +350,6 @@
                 "electric lizalfos",
                 "silver lizalfos"
             ],
-            "common_locations": [],
             "cooking_effect": "",
             "image": "lizalfos_tail.png"
         },
@@ -396,7 +367,6 @@
                 "ice-breath lizalfos",
                 "silver lizalfos"
             ],
-            "common_locations": [],
             "cooking_effect": "",
             "image": "lizalfos_talon.png"
         },
@@ -411,7 +381,6 @@
                 "white-maned lynel",
                 "silver lynel"
             ],
-            "common_locations": [],
             "cooking_effect": "",
             "image": "lynel_guts.png"
         },
@@ -426,7 +395,6 @@
                 "white-maned lynel",
                 "silver lynel"
             ],
-            "common_locations": [],
             "cooking_effect": "",
             "image": "lynel_hoof.png"
         },
@@ -441,7 +409,6 @@
                 "white-maned lynel",
                 "silver lynel"
             ],
-            "common_locations": [],
             "cooking_effect": "",
             "image": "lynel_horn.png"
         },
@@ -457,7 +424,6 @@
                 "stalmoblin",
                 "silver moblin"
             ],
-            "common_locations": [],
             "cooking_effect": "",
             "image": "moblin_fang.png"
         },
@@ -471,7 +437,6 @@
                 "black moblin",
                 "silver moblin"
             ],
-            "common_locations": [],
             "cooking_effect": "",
             "image": "moblin_guts.png"
         },
@@ -487,7 +452,6 @@
                 "stalmoblin",
                 "silver moblin"
             ],
-            "common_locations": [],
             "cooking_effect": "",
             "image": "moblin_horn.png"
         },
@@ -499,7 +463,6 @@
             "dropped_by": [
                 "molduga"
             ],
-            "common_locations": [],
             "cooking_effect": "",
             "image": "molduga_fin.png"
         },
@@ -511,7 +474,6 @@
             "dropped_by": [
                 "molduga"
             ],
-            "common_locations": [],
             "cooking_effect": "",
             "image": "molduga_guts.png"
         },
@@ -527,7 +489,6 @@
                 "snow octorok",
                 "treasure octorok"
             ],
-            "common_locations": [],
             "cooking_effect": "",
             "image": "octorok_eyeball.png"
         },
@@ -543,7 +504,6 @@
                 "snow octorok",
                 "treasure octorok"
             ],
-            "common_locations": [],
             "cooking_effect": "",
             "image": "octorok_tentacle.png"
         },
@@ -555,7 +515,6 @@
             "dropped_by": [
                 "fire-breath lizalfos"
             ],
-            "common_locations": [],
             "cooking_effect": "",
             "image": "red_lizalfos_tail.png"
         },
@@ -567,7 +526,6 @@
             "dropped_by": [
                 "ice chuchu"
             ],
-            "common_locations": [],
             "cooking_effect": "",
             "image": "white_chuchu_jelly.png"
         },
@@ -579,7 +537,6 @@
             "dropped_by": [
                 "electric lizalfos"
             ],
-            "common_locations": [],
             "cooking_effect": "",
             "image": "yellow_lizalfos_tail.png"
         },
@@ -591,7 +548,6 @@
             "dropped_by": [
                 "electric chuchu"
             ],
-            "common_locations": [],
             "cooking_effect": "",
             "image": "yellow_chuchu_jelly.png"
         },
@@ -600,7 +556,6 @@
             "name": "monster extract",
             "description": "A result of Kilton's research into monsters, this suspicious spice can be used to punch up dishes while cooking. Apparently it can be used to make a number of monstrous meals",
             "hearts_recovered": "",
-            "common_locations": [],
             "cooking_effect": "",
             "image": "monster_extract.png"
         },
@@ -618,7 +573,6 @@
                 "stone talus (luminous)",
                 "stone talus (rare)"
             ],
-            "common_locations": [],
             "cooking_effect": "",
             "image": "topaz.png"
         },
@@ -635,7 +589,6 @@
                 "guardian scout iii",
                 "guardian scout iv"
             ],
-            "common_locations": [],
             "cooking_effect": "",
             "image": "ancient_core.png"
         },
@@ -654,7 +607,6 @@
                 "guardian scout iii",
                 "guardian scout iv"
             ],
-            "common_locations": [],
             "cooking_effect": "",
             "image": "ancient_gear.png"
         },
@@ -674,7 +626,6 @@
                 "guardian scout iii",
                 "guardian scout iv"
             ],
-            "common_locations": [],
             "cooking_effect": "",
             "image": "ancient_screw.png"
         },
@@ -693,7 +644,6 @@
                 "guardian scout iii",
                 "guardian scout iv"
             ],
-            "common_locations": [],
             "cooking_effect": "",
             "image": "ancient_shaft.png"
         },
@@ -713,7 +663,6 @@
                 "guardian scout iii",
                 "guardian scout iv"
             ],
-            "common_locations": [],
             "cooking_effect": "",
             "image": "ancient_spring.png"
         },
@@ -727,7 +676,6 @@
                 "guardian skywatcher",
                 "guardian turret"
             ],
-            "common_locations": [],
             "cooking_effect": "",
             "image": "giant_ancient_core.png"
         },
@@ -748,7 +696,6 @@
                 "igneo pebblit",
                 "frost pebblit"
             ],
-            "common_locations": [],
             "cooking_effect": "",
             "image": "amber.png"
         },
@@ -760,7 +707,6 @@
             "dropped_by": [
                 "stone talus (luminous)"
             ],
-            "common_locations": [],
             "cooking_effect": "",
             "image": "luminous_stone.png"
         },
@@ -781,7 +727,6 @@
                 "frost talus",
                 "stone pebblit"
             ],
-            "common_locations": [],
             "cooking_effect": "",
             "image": "opal.png"
         },
@@ -800,7 +745,6 @@
                 "igneo talus",
                 "frost talus"
             ],
-            "common_locations": [],
             "cooking_effect": "",
             "image": "diamond.png"
         },
@@ -820,7 +764,6 @@
                 "igneo talus",
                 "igneo pebblit"
             ],
-            "common_locations": [],
             "cooking_effect": "",
             "image": "ruby.png"
         },
@@ -839,7 +782,6 @@
                 "frost talus",
                 "frost pebblit"
             ],
-            "common_locations": [],
             "cooking_effect": "",
             "image": "sapphire.png"
         },
@@ -848,7 +790,6 @@
             "name": "wood",
             "description": "A portable bundle of wood. You can use this to make a campfire if you have something to light it.",
             "hearts_recovered": "",
-            "common_locations": [],
             "cooking_effect": "",
             "image": "wood.png"
         },
@@ -867,7 +808,6 @@
                 "igneo pebblit",
                 "frost pebblit"
             ],
-            "common_locations": [],
             "cooking_effect": "",
             "image": "flint.png"
         }

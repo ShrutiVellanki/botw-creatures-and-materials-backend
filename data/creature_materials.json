@@ -16,9 +16,6 @@
                 "honeyvore bear",
                 "grizzlemaw bear"
             ],
-            "common_locations": [
-                "Hyrule Castle Dining Hall"
-            ],
             "cooking_effect": "",
             "image": "raw_gourmet_meat.png"
         },
@@ -31,9 +28,6 @@
                 "woodland boar",
                 "mountain goat",
                 "grassland fox"
-            ],
-            "common_locations": [
-                "Hyrule Castle Dining Hall"
             ],
             "cooking_effect": "",
             "image": "raw_meat.png"
@@ -57,9 +51,6 @@
                 "honeyvore bear",
                 "grizzlemaw bear"
             ],
-            "common_locations": [
-                "Hyrule Castle Dining Hall"
-            ],
             "cooking_effect": "",
             "image": "raw_prime_meat.png"
         },
@@ -75,7 +66,6 @@
                 "islander hawk",
                 "eldin ostrich"
             ],
-            "common_locations": [],
             "cooking_effect": "",
             "image": "raw_bird_thigh.png"
         },
@@ -92,7 +82,6 @@
                 "pink heron",
                 "seagull"
             ],
-            "common_locations": [],
             "cooking_effect": "",
             "image": "raw_bird_drumstick.png"
         },
@@ -105,7 +94,6 @@
                 "white pigeon",
                 "eldin ostrich"
             ],
-            "common_locations": [],
             "cooking_effect": "",
             "image": "raw_whole_bird.png"
         }
