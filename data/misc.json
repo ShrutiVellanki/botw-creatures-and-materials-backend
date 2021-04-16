@@ -25,7 +25,10 @@
             "hearts_recovered": "",
             "common_locations": [],
             "cooking_effect": "",
-            "image": "bird_egg.png"
+            "image": "bird_egg.png",
+            "dropped_by": [
+                "cucco"
+            ]
         },
         {
             "id": 210,
@@ -43,7 +46,10 @@
             "hearts_recovered": "",
             "common_locations": [],
             "cooking_effect": "",
-            "image": "acorn.png"
+            "image": "acorn.png",
+            "dropped_by": [
+                "bushy-tailed squirrel"
+            ]
         },
         {
             "id": 212,
@@ -52,7 +58,15 @@
             "hearts_recovered": "",
             "common_locations": [],
             "cooking_effect": "",
-            "image": "chickaloo_tree_nut.png"
+            "image": "chickaloo_tree_nut.png",
+            "dropped_by": [
+                "common sparrow",
+                "red sparrow",
+                "blue sparrow",
+                "rainbow sparrow",
+                "sand sparrow",
+                "golden sparrow"
+            ]
         },
         {
             "id": 213,
