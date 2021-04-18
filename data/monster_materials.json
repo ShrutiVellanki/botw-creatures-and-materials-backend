@@ -7,7 +7,7 @@
             "dropped_by": [
                 "dinraal"
             ],
-            "cooking_effect": "",
+            "elixir_duration": "",
             "image": "dinraal27s_claw.png"
         },
         {
@@ -17,7 +17,7 @@
             "dropped_by": [
                 "dinraal"
             ],
-            "cooking_effect": "",
+            "elixir_duration": "",
             "image": "dinraal27s_scale.png"
         },
         {
@@ -27,7 +27,7 @@
             "dropped_by": [
                 "farosh"
             ],
-            "cooking_effect": "",
+            "elixir_duration": "",
             "image": "farosh27s_claw.png"
         },
         {
@@ -37,7 +37,7 @@
             "dropped_by": [
                 "farosh"
             ],
-            "cooking_effect": "",
+            "elixir_duration": "",
             "image": "farosh27s_scale.png"
         },
         {
@@ -47,7 +47,7 @@
             "dropped_by": [
                 "naydra"
             ],
-            "cooking_effect": "",
+            "elixir_duration": "",
             "image": "naydra27s_claw.png"
         },
         {
@@ -57,7 +57,7 @@
             "dropped_by": [
                 "naydra"
             ],
-            "cooking_effect": "",
+            "elixir_duration": "",
             "image": "naydra27s_scale.png"
         },
         {
@@ -67,7 +67,7 @@
             "dropped_by": [
                 "dinraal"
             ],
-            "cooking_effect": "",
+            "elixir_duration": "",
             "image": "shard_of_dinraal27s_fang.png"
         },
         {
@@ -77,7 +77,7 @@
             "dropped_by": [
                 "dinraal"
             ],
-            "cooking_effect": "",
+            "elixir_duration": "",
             "image": "shard_of_dinraal27s_horn.png"
         },
         {
@@ -87,7 +87,7 @@
             "dropped_by": [
                 "farosh"
             ],
-            "cooking_effect": "",
+            "elixir_duration": "",
             "image": "shard_of_farosh27s_fang.png"
         },
         {
@@ -97,7 +97,7 @@
             "dropped_by": [
                 "farosh"
             ],
-            "cooking_effect": "",
+            "elixir_duration": "",
             "image": "shard_of_farosh27s_horn.png"
         },
         {
@@ -107,7 +107,7 @@
             "dropped_by": [
                 "naydra"
             ],
-            "cooking_effect": "",
+            "elixir_duration": "",
             "image": "shard_of_naydra27s_fang.png"
         },
         {
@@ -117,7 +117,7 @@
             "dropped_by": [
                 "naydra"
             ],
-            "cooking_effect": "",
+            "elixir_duration": "",
             "image": "shard_of_naydra27s_horn.png"
         },
         {
@@ -131,7 +131,7 @@
                 "snow octorok",
                 "treasure octorok"
             ],
-            "cooking_effect": "",
+            "elixir_duration": "",
             "image": "octo_balloon.png"
         },
         {
@@ -141,7 +141,7 @@
             "dropped_by": [
                 "fire chuchu"
             ],
-            "cooking_effect": "",
+            "elixir_duration": "",
             "image": "red_chuchu_jelly.png"
         },
         {
@@ -155,7 +155,7 @@
                 "stalkoblin",
                 "silver bokoblin"
             ],
-            "cooking_effect": "",
+            "elixir_duration": "",
             "image": "bokoblin_fang.png"
         },
         {
@@ -167,7 +167,7 @@
                 "black bokoblin",
                 "silver bokoblin"
             ],
-            "cooking_effect": "",
+            "elixir_duration": "",
             "image": "bokoblin_guts.png"
         },
         {
@@ -181,7 +181,7 @@
                 "stalkoblin",
                 "silver bokoblin"
             ],
-            "cooking_effect": "",
+            "elixir_duration": "",
             "image": "bokoblin_horn.png"
         },
         {
@@ -191,7 +191,7 @@
             "dropped_by": [
                 "chuchu"
             ],
-            "cooking_effect": "",
+            "elixir_duration": "",
             "image": "chuchu_jelly.png"
         },
         {
@@ -201,7 +201,7 @@
             "dropped_by": [
                 "electric keese"
             ],
-            "cooking_effect": "",
+            "elixir_duration": "",
             "image": "electric_keese_wing.png"
         },
         {
@@ -211,7 +211,7 @@
             "dropped_by": [
                 "fire keese"
             ],
-            "cooking_effect": "",
+            "elixir_duration": "",
             "image": "fire_keese_wing.png"
         },
         {
@@ -223,7 +223,7 @@
                 "blue hinox",
                 "black hinox"
             ],
-            "cooking_effect": "",
+            "elixir_duration": "",
             "image": "hinox_guts.png"
         },
         {
@@ -235,7 +235,7 @@
                 "blue hinox",
                 "black hinox"
             ],
-            "cooking_effect": "",
+            "elixir_duration": "",
             "image": "hinox_toenail.png"
         },
         {
@@ -248,7 +248,7 @@
                 "black hinox",
                 "stalnox"
             ],
-            "cooking_effect": "",
+            "elixir_duration": "",
             "image": "hinox_tooth.png"
         },
         {
@@ -258,7 +258,7 @@
             "dropped_by": [
                 "ice keese"
             ],
-            "cooking_effect": "",
+            "elixir_duration": "",
             "image": "ice_keese_wing.png"
         },
         {
@@ -268,7 +268,7 @@
             "dropped_by": [
                 "ice-breath lizalfos"
             ],
-            "cooking_effect": "",
+            "elixir_duration": "",
             "image": "icy_lizalfos_tail.png"
         },
         {
@@ -281,7 +281,7 @@
                 "ice keese",
                 "electric keese"
             ],
-            "cooking_effect": "",
+            "elixir_duration": "",
             "image": "keese_eyeball.png"
         },
         {
@@ -291,7 +291,7 @@
             "dropped_by": [
                 "keese"
             ],
-            "cooking_effect": "",
+            "elixir_duration": "",
             "image": "keese_wing.png"
         },
         {
@@ -308,7 +308,7 @@
                 "electric lizalfos",
                 "silver lizalfos"
             ],
-            "cooking_effect": "",
+            "elixir_duration": "",
             "image": "lizalfos_horn.png"
         },
         {
@@ -321,7 +321,7 @@
                 "electric lizalfos",
                 "silver lizalfos"
             ],
-            "cooking_effect": "",
+            "elixir_duration": "",
             "image": "lizalfos_tail.png"
         },
         {
@@ -337,7 +337,7 @@
                 "ice-breath lizalfos",
                 "silver lizalfos"
             ],
-            "cooking_effect": "",
+            "elixir_duration": "",
             "image": "lizalfos_talon.png"
         },
         {
@@ -350,7 +350,7 @@
                 "white-maned lynel",
                 "silver lynel"
             ],
-            "cooking_effect": "",
+            "elixir_duration": "",
             "image": "lynel_guts.png"
         },
         {
@@ -363,7 +363,7 @@
                 "white-maned lynel",
                 "silver lynel"
             ],
-            "cooking_effect": "",
+            "elixir_duration": "",
             "image": "lynel_hoof.png"
         },
         {
@@ -376,7 +376,7 @@
                 "white-maned lynel",
                 "silver lynel"
             ],
-            "cooking_effect": "",
+            "elixir_duration": "",
             "image": "lynel_horn.png"
         },
         {
@@ -390,7 +390,7 @@
                 "stalmoblin",
                 "silver moblin"
             ],
-            "cooking_effect": "",
+            "elixir_duration": "",
             "image": "moblin_fang.png"
         },
         {
@@ -402,7 +402,7 @@
                 "black moblin",
                 "silver moblin"
             ],
-            "cooking_effect": "",
+            "elixir_duration": "",
             "image": "moblin_guts.png"
         },
         {
@@ -416,7 +416,7 @@
                 "stalmoblin",
                 "silver moblin"
             ],
-            "cooking_effect": "",
+            "elixir_duration": "",
             "image": "moblin_horn.png"
         },
         {
@@ -426,7 +426,7 @@
             "dropped_by": [
                 "molduga"
             ],
-            "cooking_effect": "",
+            "elixir_duration": "",
             "image": "molduga_fin.png"
         },
         {
@@ -436,7 +436,7 @@
             "dropped_by": [
                 "molduga"
             ],
-            "cooking_effect": "",
+            "elixir_duration": "",
             "image": "molduga_guts.png"
         },
         {
@@ -450,7 +450,7 @@
                 "snow octorok",
                 "treasure octorok"
             ],
-            "cooking_effect": "",
+            "elixir_duration": "",
             "image": "octorok_eyeball.png"
         },
         {
@@ -464,7 +464,7 @@
                 "snow octorok",
                 "treasure octorok"
             ],
-            "cooking_effect": "",
+            "elixir_duration": "",
             "image": "octorok_tentacle.png"
         },
         {
@@ -474,7 +474,7 @@
             "dropped_by": [
                 "fire-breath lizalfos"
             ],
-            "cooking_effect": "",
+            "elixir_duration": "",
             "image": "red_lizalfos_tail.png"
         },
         {
@@ -484,7 +484,7 @@
             "dropped_by": [
                 "ice chuchu"
             ],
-            "cooking_effect": "",
+            "elixir_duration": "",
             "image": "white_chuchu_jelly.png"
         },
         {
@@ -494,7 +494,7 @@
             "dropped_by": [
                 "electric lizalfos"
             ],
-            "cooking_effect": "",
+            "elixir_duration": "",
             "image": "yellow_lizalfos_tail.png"
         },
         {
@@ -504,14 +504,14 @@
             "dropped_by": [
                 "electric chuchu"
             ],
-            "cooking_effect": "",
+            "elixir_duration": "",
             "image": "yellow_chuchu_jelly.png"
         },
         {
             "id": 262,
             "name": "monster extract",
             "description": "A result of Kilton's research into monsters, this suspicious spice can be used to punch up dishes while cooking. Apparently it can be used to make a number of monstrous meals",
-            "cooking_effect": "",
+            "elixir_duration": "",
             "image": "monster_extract.png"
         },
         {
@@ -527,7 +527,7 @@
                 "stone talus (luminous)",
                 "stone talus (rare)"
             ],
-            "cooking_effect": "",
+            "elixir_duration": "",
             "image": "topaz.png"
         },
         {
@@ -542,7 +542,7 @@
                 "guardian scout iii",
                 "guardian scout iv"
             ],
-            "cooking_effect": "",
+            "elixir_duration": "",
             "image": "ancient_core.png"
         },
         {
@@ -559,7 +559,7 @@
                 "guardian scout iii",
                 "guardian scout iv"
             ],
-            "cooking_effect": "",
+            "elixir_duration": "",
             "image": "ancient_gear.png"
         },
         {
@@ -577,7 +577,7 @@
                 "guardian scout iii",
                 "guardian scout iv"
             ],
-            "cooking_effect": "",
+            "elixir_duration": "",
             "image": "ancient_screw.png"
         },
         {
@@ -594,7 +594,7 @@
                 "guardian scout iii",
                 "guardian scout iv"
             ],
-            "cooking_effect": "",
+            "elixir_duration": "",
             "image": "ancient_shaft.png"
         },
         {
@@ -612,7 +612,7 @@
                 "guardian scout iii",
                 "guardian scout iv"
             ],
-            "cooking_effect": "",
+            "elixir_duration": "",
             "image": "ancient_spring.png"
         },
         {
@@ -624,7 +624,7 @@
                 "guardian skywatcher",
                 "guardian turret"
             ],
-            "cooking_effect": "",
+            "elixir_duration": "",
             "image": "giant_ancient_core.png"
         },
         {
@@ -643,7 +643,7 @@
                 "igneo pebblit",
                 "frost pebblit"
             ],
-            "cooking_effect": "",
+            "elixir_duration": "",
             "image": "amber.png"
         },
         {
@@ -653,7 +653,7 @@
             "dropped_by": [
                 "stone talus (luminous)"
             ],
-            "cooking_effect": "",
+            "elixir_duration": "",
             "image": "luminous_stone.png"
         },
         {
@@ -672,7 +672,7 @@
                 "frost talus",
                 "stone pebblit"
             ],
-            "cooking_effect": "",
+            "elixir_duration": "",
             "image": "opal.png"
         },
         {
@@ -689,7 +689,7 @@
                 "igneo talus",
                 "frost talus"
             ],
-            "cooking_effect": "",
+            "elixir_duration": "",
             "image": "diamond.png"
         },
         {
@@ -707,7 +707,7 @@
                 "igneo talus",
                 "igneo pebblit"
             ],
-            "cooking_effect": "",
+            "elixir_duration": "",
             "image": "ruby.png"
         },
         {
@@ -724,14 +724,14 @@
                 "frost talus",
                 "frost pebblit"
             ],
-            "cooking_effect": "",
+            "elixir_duration": "",
             "image": "sapphire.png"
         },
         {
             "id": 276,
             "name": "wood",
             "description": "A portable bundle of wood. You can use this to make a campfire if you have something to light it.",
-            "cooking_effect": "",
+            "elixir_duration": "",
             "image": "wood.png"
         },
         {
@@ -748,7 +748,7 @@
                 "igneo pebblit",
                 "frost pebblit"
             ],
-            "cooking_effect": "",
+            "elixir_duration": "",
             "image": "flint.png"
         }
     ]
