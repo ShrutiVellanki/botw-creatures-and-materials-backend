@@ -843,7 +843,7 @@
                 "Tabantha Frontier"
             ],
             "hearts_recovered": 0.0,
-            "cooking_effect": "heat resistance",
+            "elixir_effect": "heat resistance",
             "drops": [],
             "image": "https://botw-compendium.herokuapp.com/api/v2/entry/winterwing_butterfly/image"
         },
@@ -856,7 +856,7 @@
                 "Eldin Mountains"
             ],
             "hearts_recovered": 0.0,
-            "cooking_effect": "cold resistance",
+            "elixir_effect": "cold resistance",
             "drops": [],
             "image": "https://botw-compendium.herokuapp.com/api/v2/entry/summerwing_butterfly/image"
         },
@@ -869,7 +869,7 @@
                 "Gerudo Highlands"
             ],
             "hearts_recovered": 0.0,
-            "cooking_effect": "shock resistance",
+            "elixir_effect": "shock resistance",
             "drops": [],
             "image": "https://botw-compendium.herokuapp.com/api/v2/entry/thunderwing_butterfly/image"
         },
@@ -881,7 +881,7 @@
                 "Eldin Canyon",
                 "Death Mountain"
             ],
-            "hearts_recovered": 0.0,
+            "elixir_recovered": 0.0,
             "cooking_effect": "flame guard",
             "drops": [],
             "image": "https://botw-compendium.herokuapp.com/api/v2/entry/smotherwing_butterfly/image"
@@ -895,7 +895,7 @@
                 "Hyrule Ridge"
             ],
             "hearts_recovered": 0.0,
-            "cooking_effect": "heat resistance",
+            "elixir_effect": "heat resistance",
             "drops": [],
             "image": "https://botw-compendium.herokuapp.com/api/v2/entry/cold_darner/image"
         },
@@ -907,7 +907,7 @@
                 "Akkala Highlands",
                 "Hyrule Field"
             ],
-            "hearts_recovered": 0.0,
+            "elixir_recovered": 0.0,
             "cooking_effect": "cold resistance",
             "drops": [],
             "image": "https://botw-compendium.herokuapp.com/api/v2/entry/warm_darner/image"
@@ -921,7 +921,7 @@
                 "Gerudo Desert"
             ],
             "hearts_recovered": 0.0,
-            "cooking_effect": "shock resistance",
+            "elixir_effect": "shock resistance",
             "drops": [],
             "image": "https://botw-compendium.herokuapp.com/api/v2/entry/electric_darner/image"
         },
@@ -934,7 +934,7 @@
                 "East Necluda"
             ],
             "hearts_recovered": 0.0,
-            "cooking_effect": "stamina recovery",
+            "elixir_effect": "stamina recovery",
             "drops": [],
             "image": "https://botw-compendium.herokuapp.com/api/v2/entry/restless_cricket/image"
         },
@@ -947,7 +947,7 @@
                 "East Necluda"
             ],
             "hearts_recovered": 0.0,
-            "cooking_effect": "attack up",
+            "elixir_effect": "attack up",
             "drops": [],
             "image": "https://botw-compendium.herokuapp.com/api/v2/entry/bladed_rhino_beetle/image"
         },
@@ -960,7 +960,7 @@
                 "Faron Grasslands"
             ],
             "hearts_recovered": 0.0,
-            "cooking_effect": "defense up",
+            "elixir_effect": "defense up",
             "drops": [],
             "image": "https://botw-compendium.herokuapp.com/api/v2/entry/rugged_rhino_beetle/image"
         },
@@ -973,7 +973,7 @@
                 "West Necluda"
             ],
             "hearts_recovered": 0.0,
-            "cooking_effect": "stamina recovery",
+            "elixir_effect": "stamina recovery",
             "drops": [],
             "image": "https://botw-compendium.herokuapp.com/api/v2/entry/energetic_rhino_beetle/image"
         },
@@ -986,7 +986,7 @@
                 "Great Hyrule Forest"
             ],
             "hearts_recovered": 0.0,
-            "cooking_effect": "stealth up",
+            "elixir_effect": "stealth up",
             "drops": [],
             "image": "https://botw-compendium.herokuapp.com/api/v2/entry/sunset_firefly/image"
         },
@@ -999,7 +999,7 @@
                 "Hyrule Ridge"
             ],
             "hearts_recovered": 0.0,
-            "cooking_effect": "speed up",
+            "elixir_effect": "speed up",
             "drops": [],
             "image": "https://botw-compendium.herokuapp.com/api/v2/entry/hot-footed_frog/image"
         },
@@ -1012,7 +1012,7 @@
                 "Hyrule Ridge"
             ],
             "hearts_recovered": 0.0,
-            "cooking_effect": "extra stamina",
+            "elixir_effect": "extra stamina",
             "drops": [],
             "image": "https://botw-compendium.herokuapp.com/api/v2/entry/tireless_frog/image"
         },
@@ -1025,7 +1025,7 @@
                 "East Necluda"
             ],
             "hearts_recovered": 0.0,
-            "cooking_effect": "speed up",
+            "elixir_effect": "speed up",
             "drops": [],
             "image": "https://botw-compendium.herokuapp.com/api/v2/entry/hightail_lizard/image"
         },
@@ -1038,7 +1038,7 @@
                 "Necluda Sea"
             ],
             "hearts_recovered": 0.0,
-            "cooking_effect": "extra hearts",
+            "elixir_effect": "extra hearts",
             "drops": [],
             "image": "https://botw-compendium.herokuapp.com/api/v2/entry/hearty_lizard/image"
         },
@@ -1051,7 +1051,7 @@
                 "Death Mountain"
             ],
             "hearts_recovered": 0.0,
-            "cooking_effect": "flame guard",
+            "elixir_effect": "flame guard",
             "drops": [],
             "image": "https://botw-compendium.herokuapp.com/api/v2/entry/fireproof_lizard/image"
         }
