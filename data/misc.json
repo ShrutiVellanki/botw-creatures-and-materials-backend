@@ -4,7 +4,7 @@
             "id": 207,
             "name": "goat butter",
             "description": "Butter made from the milk of a domesticated white goat. In addition to being used in dishes like stews and meunière, it's often used when making cakes and other sweets",
-            "hearts_recovered": "",
+            "hearts_recovered": 0,
             "common_locations": [
                 "Shops"
             ],
@@ -15,7 +15,7 @@
             "id": 208,
             "name": "star fragment",
             "description": "A mysterious stone fragment that fell from the sky. It looks like it would fetch a good price, but you may able to use it in certain recipes as well.",
-            "hearts_recovered": "",
+            "hearts_recovered": 0,
             "cooking_effect": "",
             "image": "star_fragment.png",
             "dropped_by": [
@@ -104,7 +104,7 @@
             "id": 215,
             "name": "rock salt",
             "description": "Crystallized salt from the ancient sea commonly used to season meals. Cannot be eaten in this form.",
-            "hearts_recovered": "",
+            "hearts_recovered": 0,
             "common_locations": [
                 "Shops",
                 "Ores"
@@ -116,7 +116,7 @@
             "id": 216,
             "name": "cane sugar",
             "description": "When boiled with other ingredients, the cane breaks down into a sweet juice necessary for making cakes and other sweets. It's commonly found in ingredients stores",
-            "hearts_recovered": "",
+            "hearts_recovered": 0,
             "common_locations": [
                 "Shops"
             ],
@@ -127,7 +127,7 @@
             "id": 217,
             "name": "goron spice",
             "description": "Made from several types of spices, this secret Goron seasoning has been handed down for generations. An initial wave of spiciness paves the way for sweetness.",
-            "hearts_recovered": "",
+            "hearts_recovered": 0,
             "common_locations": [
                 "Shops"
             ],
