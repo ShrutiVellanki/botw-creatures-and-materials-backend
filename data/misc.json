@@ -26,7 +26,7 @@
             "id": 209,
             "name": "bird egg",
             "description": "A fresh bird egg necessary for making dishes such as omelets or crepes. You can snag them from birds' nests if you're sneaky. Nutritious and delicious, perfect for cooking.",
-            "hearts_recovered": "",
+            "hearts_recovered": 1,
             "common_locations": [],
             "cooking_effect": "",
             "image": "bird_egg.png",
@@ -38,7 +38,7 @@
             "id": 210,
             "name": "fresh milk",
             "description": "This fresh milk comes from Hateno cows and white goats kept in the village. It's delicious on its own but can also be used as an ingredient in soups and stews.",
-            "hearts_recovered": "",
+            "hearts_recovered": 0.5,
             "common_locations": [
                 "Shops"
             ],
@@ -49,7 +49,7 @@
             "id": 211,
             "name": "acorn",
             "description": "Often found on the ground near trees. Squirrels adore this nut, so you may have competition while foraging. Add one to a meal for a nutty seasoning.",
-            "hearts_recovered": "",
+            "hearts_recovered": 0.25,
             "common_locations": [
                 "Trees"
             ],
@@ -63,7 +63,7 @@
             "id": 212,
             "name": "chickaloo tree nut",
             "description": "Small birds love this nut. You can eat it raw for a minor effect, but it can also be added as a spice to other recipes.",
-            "hearts_recovered": "",
+            "hearts_recovered": 0.2,
             "common_locations": [],
             "cooking_effect": "",
             "image": "chickaloo_tree_nut.png",
@@ -80,7 +80,7 @@
             "id": 213,
             "name": "tabantha wheat",
             "description": "This grain is cultivated extensively on the Tabantha Plains. It's ground finely with a millstone to be used in cooking. Use it to make things such as stews and breads.",
-            "hearts_recovered": "",
+            "hearts_recovered": 1,
             "common_locations": [
                 "Shops",
                 "Cutting grass in the Tabantha regions"
@@ -92,7 +92,7 @@
             "id": 214,
             "name": "hylian rice",
             "description": "This grain is the favorite among residents of Kakariko Village. It's grown in regions with a lot of water and is quite versatile. Used as an ingredient in things like risotto and rice balls.",
-            "hearts_recovered": "",
+            "hearts_recovered": 1,
             "common_locations": [
                 "Shops",
                 "Cutting grass in Hyrule Field"
