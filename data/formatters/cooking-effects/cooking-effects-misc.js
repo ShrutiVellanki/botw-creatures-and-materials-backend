@@ -1,5 +1,4 @@
-{
-    "data": [
+const misc_materials = [
         {
             "id": 207,
             "name": "goat butter",
@@ -28,7 +27,7 @@
             "description": "A fresh bird egg necessary for making dishes such as omelets or crepes. You can snag them from birds' nests if you're sneaky. Nutritious and delicious, perfect for cooking.",
             "hearts_recovered": 1,
             "common_locations": [],
-            "cooking_effect": "energizing",
+            "cooking_effect": "",
             "image": "bird_egg.png",
             "dropped_by": [
                 "cucco"
@@ -42,7 +41,7 @@
             "common_locations": [
                 "Shops"
             ],
-            "cooking_effect": "energizing",
+            "cooking_effect": "",
             "image": "fresh_milk.png"
         },
         {
@@ -53,7 +52,7 @@
             "common_locations": [
                 "Trees"
             ],
-            "cooking_effect": "energizing",
+            "cooking_effect": "",
             "image": "acorn.png",
             "dropped_by": [
                 "bushy-tailed squirrel"
@@ -65,7 +64,7 @@
             "description": "Small birds love this nut. You can eat it raw for a minor effect, but it can also be added as a spice to other recipes.",
             "hearts_recovered": 0.2,
             "common_locations": [],
-            "cooking_effect": "energizing",
+            "cooking_effect": "",
             "image": "chickaloo_tree_nut.png",
             "dropped_by": [
                 "common sparrow",
@@ -85,7 +84,7 @@
                 "Shops",
                 "Cutting grass in the Tabantha regions"
             ],
-            "cooking_effect": "energizing",
+            "cooking_effect": "",
             "image": "tabantha_wheat.png"
         },
         {
@@ -97,7 +96,7 @@
                 "Shops",
                 "Cutting grass in Hyrule Field"
             ],
-            "cooking_effect": "energizing",
+            "cooking_effect": "",
             "image": "hylian_rice.png"
         },
         {
@@ -134,5 +133,46 @@
             "cooking_effect": "",
             "image": "goron_spice.png"
         }
-    ]
+];
+
+const cooking_effects = {
+    "hearty raddish" : "extra hearts",
+    "hearty salmon" : "extra hearts",
+    "hearty durian" : "extra hearts",
+    "big hearty truffle" : "extra hearts",
+    "hearty blueshell snail" : "extra hearts",
+    "hearty raddish" : "extra hearts",
+    "hearty truffle" : "extra hearts",
+    "hearty bass" : "extra hearts",
+    "hearty lizard" : "extra hearts",
+    "fairy": "energizing",
+    "raw gourmet meat": "energizing",
+    "raw whole bird": "energizing",
+    "raw prime meat": "energizing",
+    "raw bird thigh": "energizing",
+    "palm fruit": "energizing",
+    "hyrule herb": "energizing",
+    "raw meat": "energizing",
+    "raw bird drumstick": "energizing",
+    "hylian rice": "energizing",
+    "bird egg": "energizing",
+    "tabantha wheat": "energizing",
+    "hyrule bass": "energizing",
+    "sanke carp": "energizing",
+    "fresh milk": "energizing",
+    "apple": "energizing",
+    "wildberry": "energizing",
+    "hylian shroom": "energizing",
+    "acorn": "energizing",
+    "chickaloo tree nut": "energizing",
+};
+
+for (let material of misc_materials) {
+    const material_name = material["name"];
+    const effect = cooking_effects[material_name]
+    if (effect) {
+        material["cooking_effect"] = effect;
+    }
 }
+
+console.log(misc_materials);
