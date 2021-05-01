@@ -315,7 +315,7 @@ var monsters = [
         "id": 107,
         "name": "silver bokoblin",
         "description": "You would be foolish to call these Silver Bokoblins a mere nuisance. They have been influenced by Ganon's fiendish magic, so they are stronger than even the Black Bokoblins. They're called \"silver\" not only because of their coloring but also to denote their rarity. The purple markings help them to stand out even more.",
-        "common_locations": null,
+        "common_locations": [],
         "drops": [
             "bokoblin horn",
             "bokoblin fang",
@@ -391,7 +391,7 @@ var monsters = [
         "id": 112,
         "name": "silver moblin",
         "description": "The strongest of all Moblins, Ganon's fiendish magic has allowed them to surpass even the Black Moblins in strength and resilience. They're called \"silver\" for both their body color as well as their rarity. The purple patterns on their bodies also help them to stand out.",
-        "common_locations": null,
+        "common_locations": [],
         "drops": [
             "moblin horn",
             "moblin fang",
@@ -512,7 +512,7 @@ var monsters = [
         "id": 120,
         "name": "silver lizalfos",
         "description": "These Lizalfos have been influenced by Ganon's fiendish magic to become the strongest Lizalfos of all. They're called \"silver\" for their unique coloring and also to denote their rarity. Their purple pattern makes them even more distinct.",
-        "common_locations": null,
+        "common_locations": [],
         "drops": [
             "lizalfos horn",
             "lizalfos talon",
@@ -575,7 +575,7 @@ var monsters = [
         "id": 124,
         "name": "silver lynel",
         "description": "Silver Lynels are not to be trifled with. They have been influenced by Ganon's fiendish magic, so they are the strongest among the Lynel species, surpassing even the strength of those with white manes. The term \"silver\" denotes not only their color but also their rarity. The purple stripes help them to stand out even more.",
-        "common_locations": null,
+        "common_locations": [],
         "drops": [
             "lynel horn",
             "lynel hoof",
@@ -676,7 +676,7 @@ var monsters = [
         "id": 130,
         "name": "guardian scout i",
         "description": "Guardians were originally designed by an ancient civilization to combat Ganon, but these smaller models were placed inside shrines as part of the trials found within. The multiple legs and beam functionality were scaled down but kept mostly intact.",
-        "common_locations": null,
+        "common_locations": [],
         "drops": [
             "ancient screw",
             "ancient spring"
@@ -687,7 +687,7 @@ var monsters = [
         "id": 131,
         "name": "guardian scout ii",
         "description": "Although originally designed by an ancient civilization to combat Ganon, these scaled-down Guardians were placed inside shrines as part of the trials. In additional to the beam functionality, this particular model was designed to handle weaponry as a means of further testing the combat prowess of one undertaking the trials. It takes some serious skill to go toe-to-toe with one of these.",
-        "common_locations": null,
+        "common_locations": [],
         "drops": [
             "ancient screw",
             "ancient spring",
@@ -700,7 +700,7 @@ var monsters = [
         "id": 132,
         "name": "guardian scout iii",
         "description": "Although originally designed by an ancient civilisation to combat Ganon, these scaled-down Guardians were placed inside shrines as part or the trials. This model is equipped with twin-blade functionality to further test the combat prowess of one undertaking the trials. It takes a nimble fighter to overcome this one.",
-        "common_locations": null,
+        "common_locations": [],
         "drops": [
             "ancient screw",
             "ancient spring",
@@ -714,7 +714,7 @@ var monsters = [
         "id": 133,
         "name": "guardian scout iv",
         "description": "An ancient civilization originally designed Guardians to combat Ganon but then scaled them down to place in shrines as part of the trials. This model is very resilient and has been outfitted with triple-blade functionality, allowing it to wield three weapons. This will put any would-be hero to the test for sure. A great deal of strength and confidence alike are required to contend with one of these.",
-        "common_locations": null,
+        "common_locations": [],
         "drops": [
             "ancient screw",
             "ancient spring",
@@ -728,7 +728,7 @@ var monsters = [
         "id": 134,
         "name": "yiga footsoldier",
         "description": "The lowest-ranked members of the Yiga Clan. They've been dispatched all across Hyrule with a single task: seek out Link and end his life. They're a crafty bunch, sometimes disguising themselves as simple travelers or villagers to get the jump on you. Be wary of suspicious people you encounter. They're very agile and carry a bow and one-handed sword.",
-        "common_locations": null,
+        "common_locations": [],
         "drops": [
             "green rupee",
             "blue rupee",
@@ -742,7 +742,7 @@ var monsters = [
         "id": 135,
         "name": "yiga blademaster",
         "description": "These are the elite soldiers of the Yiga Clan. They favor the windcleaver blade and are extremely agile despite their bulky build. At this Yiga Clan rank, they have mastered a technique that allows them to manipulate the very earth. By striking the ground, they can create stone pillars and blasts of air.",
-        "common_locations": null,
+        "common_locations": [],
         "drops": [
             "amber",
             "opal",
@@ -767,7 +767,7 @@ var monsters = [
         "id": 137,
         "name": "monk maz koshia",
         "description": "The arbiter of worthiness for the hero who wishes to control a Divine Beast, following a revelation from the Goddess Hylia. As the last part of the final trial, the monk offers a challenge of ancient techniques.",
-        "common_locations": null,
+        "common_locations": [],
         "drops": [],
         "image": "https://botw-compendium.herokuapp.com/api/v2/entry/monk_maz_koshia/image"
     },
@@ -903,7 +903,7 @@ var monsters = [
         "id": 146,
         "name": "igneo talus titan",
         "description": "This monster is an Igneo Talus subspecies that is camouflaged as molten rock. It lives in lava for many years before emerging at an enormous size. It is wildly powerful and emits a tremendous amount of heat, causing a constant updraft in its vicinity. This monster is so fearsome it has earned the title of Titan.",
-        "common_locations": null,
+        "common_locations": [],
         "drops": [],
         "image": "https://botw-compendium.herokuapp.com/api/v2/entry/igneo_talus_titan/image"
     },
@@ -1004,7 +1004,7 @@ var monsters = [
         "id": 152,
         "name": "molduking",
         "description": "This massive monster swims beneath the desert's sand. It is a subspecies of Molduga that stored up a great deal of energy by sleeping underground for hundreds of years. Its power is superior to Molduga, as its skin is rich with iron and acts as a protective shield.",
-        "common_locations": null,
+        "common_locations": [],
         "drops": [
             "treasures"
         ],
@@ -1061,7 +1061,7 @@ var monsters = [
         "id": 156,
         "name": "cursed bokoblin",
         "description": "The Malice has given these Bokoblin skulls a sort of life. Devoid of any intelligence the Bokoblin it once belonged to may have had, these pitiful things now exist only to attack anything that gets too close.",
-        "common_locations": null,
+        "common_locations": [],
         "drops": [],
         "image": "https://botw-compendium.herokuapp.com/api/v2/entry/cursed_bokoblin/image"
     },
@@ -1069,7 +1069,7 @@ var monsters = [
         "id": 157,
         "name": "cursed moblin",
         "description": "The Malice has given these Moblin skulls a pitiful life after death. The only fragment of their former selves they've held on to is the ferocity innate to all Moblins, so they will attack anyone that approaches.",
-        "common_locations": null,
+        "common_locations": [],
         "drops": [],
         "image": "https://botw-compendium.herokuapp.com/api/v2/entry/cursed_moblin/image"
     },
@@ -1077,7 +1077,7 @@ var monsters = [
         "id": 158,
         "name": "cursed lizalfos",
         "description": "The Malice has given these Lizalfos skulls a sorry form of life after death. Only the slyness of their former selves remains, making them faster than Bokoblin skulls. They thoughtlessly attack anyone who approaches.",
-        "common_locations": null,
+        "common_locations": [],
         "drops": [],
         "image": "https://botw-compendium.herokuapp.com/api/v2/entry/cursed_lizalfos/image"
     },

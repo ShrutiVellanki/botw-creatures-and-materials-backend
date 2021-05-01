@@ -14,7 +14,7 @@ var creatures = [
         "id": 2,
         "name": "giant horse",
         "description": "This giant horse is the last of its kind. Its physical capabilities completely overshadow those of regular horses, but its temperament is extremely wild. Only a truly skilled rider can train, or even catch, this beast of a mount. This is a horse that chooses its rider.",
-        "common_locations": null,
+        "common_locations": [],
         "drops": [],
         "image": "https://botw-compendium.herokuapp.com/api/v2/entry/giant_horse/image"
     },
@@ -22,7 +22,7 @@ var creatures = [
         "id": 3,
         "name": "white horse",
         "description": "The Hyrulean royal family that perished 100 years ago would sometimes ride atop white horses as a display of their divine right. This white horse may be a descendant of one once ridden by royalty.",
-        "common_locations": null,
+        "common_locations": [],
         "drops": [],
         "image": "https://botw-compendium.herokuapp.com/api/v2/entry/white_horse/image"
     },
