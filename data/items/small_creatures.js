@@ -9,7 +9,6 @@ export const small_creatures = [
         ],
         "hearts_recovered": 1.0,
         "cooking_effect": "",
-        "drops": [],
         "image": "https://botw-compendium.herokuapp.com/api/v2/entry/hyrule_bass/image"
     },
     {
@@ -22,7 +21,6 @@ export const small_creatures = [
         ],
         "hearts_recovered": 2.0,
         "cooking_effect": "extra hearts",
-        "drops": [],
         "image": "https://botw-compendium.herokuapp.com/api/v2/entry/hearty_bass/image"
     },
     {
@@ -35,7 +33,6 @@ export const small_creatures = [
         ],
         "hearts_recovered": 1.0,
         "cooking_effect": "stamina recovery",
-        "drops": [],
         "image": "https://botw-compendium.herokuapp.com/api/v2/entry/staminoka_bass/image"
     },
     {
@@ -48,7 +45,6 @@ export const small_creatures = [
         ],
         "hearts_recovered": 4.0,
         "cooking_effect": "extra hearts",
-        "drops": [],
         "image": "https://botw-compendium.herokuapp.com/api/v2/entry/hearty_salmon/image"
     },
     {
@@ -61,7 +57,6 @@ export const small_creatures = [
         ],
         "hearts_recovered": 1.0,
         "cooking_effect": "heat resistance",
-        "drops": [],
         "image": "https://botw-compendium.herokuapp.com/api/v2/entry/chillfin_trout/image"
     },
     {
@@ -74,7 +69,6 @@ export const small_creatures = [
         ],
         "hearts_recovered": 1.0,
         "cooking_effect": "cold resistance",
-        "drops": [],
         "image": "https://botw-compendium.herokuapp.com/api/v2/entry/sizzlefin_trout/image"
     },
     {
@@ -87,7 +81,6 @@ export const small_creatures = [
         ],
         "hearts_recovered": 1.0,
         "cooking_effect": "shock resistance",
-        "drops": [],
         "image": "https://botw-compendium.herokuapp.com/api/v2/entry/voltfin_trout/image"
     },
     {
@@ -100,7 +93,6 @@ export const small_creatures = [
         ],
         "hearts_recovered": 1.0,
         "cooking_effect": "stealth up",
-        "drops": [],
         "image": "https://botw-compendium.herokuapp.com/api/v2/entry/stealthfin_trout/image"
     },
     {
@@ -113,7 +105,6 @@ export const small_creatures = [
         ],
         "hearts_recovered": 1.0,
         "cooking_effect": "attack up",
-        "drops": [],
         "image": "https://botw-compendium.herokuapp.com/api/v2/entry/mighty_carp/image"
     },
     {
@@ -126,7 +117,6 @@ export const small_creatures = [
         ],
         "hearts_recovered": 1.0,
         "cooking_effect": "defense up",
-        "drops": [],
         "image": "https://botw-compendium.herokuapp.com/api/v2/entry/armored_carp/image"
     },
     {
@@ -138,7 +128,6 @@ export const small_creatures = [
         ],
         "hearts_recovered": 1.0,
         "cooking_effect": "",
-        "drops": [],
         "image": "https://botw-compendium.herokuapp.com/api/v2/entry/sanke_carp/image"
     },
     {
@@ -151,7 +140,6 @@ export const small_creatures = [
         ],
         "hearts_recovered": 1.0,
         "cooking_effect": "attack up",
-        "drops": [],
         "image": "https://botw-compendium.herokuapp.com/api/v2/entry/mighty_porgy/image"
     },
     {
@@ -164,7 +152,6 @@ export const small_creatures = [
         ],
         "hearts_recovered": 1.0,
         "cooking_effect": "defense up",
-        "drops": [],
         "image": "https://botw-compendium.herokuapp.com/api/v2/entry/armored_porgy/image"
     },
     {
@@ -177,7 +164,6 @@ export const small_creatures = [
         ],
         "hearts_recovered": 1.0,
         "cooking_effect": "stealth up",
-        "drops": [],
         "image": "https://botw-compendium.herokuapp.com/api/v2/entry/sneaky_river_snail/image"
     },
     {
@@ -190,7 +176,6 @@ export const small_creatures = [
         ],
         "hearts_recovered": 1.0,
         "cooking_effect": "extra hearts",
-        "drops": [],
         "image": "https://botw-compendium.herokuapp.com/api/v2/entry/hearty_blueshell_snail/image"
     },
     {
@@ -203,7 +188,6 @@ export const small_creatures = [
         ],
         "hearts_recovered": 1.0,
         "cooking_effect": "attack up",
-        "drops": [],
         "image": "https://botw-compendium.herokuapp.com/api/v2/entry/razorclaw_crab/image"
     },
     {
@@ -216,7 +200,6 @@ export const small_creatures = [
         ],
         "hearts_recovered": 1.0,
         "cooking_effect": "defense up",
-        "drops": [],
         "image": "https://botw-compendium.herokuapp.com/api/v2/entry/ironshell_crab/image"
     },
     {
@@ -229,7 +212,6 @@ export const small_creatures = [
         ],
         "hearts_recovered": 1.0,
         "cooking_effect": "stamina recovery",
-        "drops": [],
         "image": "https://botw-compendium.herokuapp.com/api/v2/entry/bright-eyed_crab/image"
     },
     {
@@ -241,9 +223,11 @@ export const small_creatures = [
         ],
         "hearts_recovered": 5.0,
         "cooking_effect": "",
-        "drops": [],
         "image": "https://botw-compendium.herokuapp.com/api/v2/entry/fairy/image"
-    },
+    }
+];
+
+export const small_creatures_elixir_ingredients = [
     {
         "id": 67,
         "name": "winterwing butterfly",
@@ -253,8 +237,7 @@ export const small_creatures = [
             "Tabantha Frontier"
         ],
         "hearts_recovered": 0.0,
-        "elixir_effect": "heat resistance",
-        "drops": [],
+        "cooking_effect": "heat resistance",
         "image": "https://botw-compendium.herokuapp.com/api/v2/entry/winterwing_butterfly/image"
     },
     {
@@ -266,8 +249,7 @@ export const small_creatures = [
             "Eldin Mountains"
         ],
         "hearts_recovered": 0.0,
-        "elixir_effect": "cold resistance",
-        "drops": [],
+        "cooking_effect": "cold resistance",
         "image": "https://botw-compendium.herokuapp.com/api/v2/entry/summerwing_butterfly/image"
     },
     {
@@ -279,8 +261,7 @@ export const small_creatures = [
             "Gerudo Highlands"
         ],
         "hearts_recovered": 0.0,
-        "elixir_effect": "shock resistance",
-        "drops": [],
+        "cooking_effect": "shock resistance",
         "image": "https://botw-compendium.herokuapp.com/api/v2/entry/thunderwing_butterfly/image"
     },
     {
@@ -291,9 +272,8 @@ export const small_creatures = [
             "Eldin Canyon",
             "Death Mountain"
         ],
-        "elixir_recovered": 0.0,
-        "elixir_effect": "flame guard",
-        "drops": [],
+        "hearts_recovered": 0.0,
+        "cooking_effect": "flame guard",
         "image": "https://botw-compendium.herokuapp.com/api/v2/entry/smotherwing_butterfly/image"
     },
     {
@@ -305,8 +285,7 @@ export const small_creatures = [
             "Hyrule Ridge"
         ],
         "hearts_recovered": 0.0,
-        "elixir_effect": "heat resistance",
-        "drops": [],
+        "cooking_effect": "heat resistance",
         "image": "https://botw-compendium.herokuapp.com/api/v2/entry/cold_darner/image"
     },
     {
@@ -317,9 +296,8 @@ export const small_creatures = [
             "Akkala Highlands",
             "Hyrule Field"
         ],
-        "elixir_recovered": 0.0,
-        "elixir_effect": "cold resistance",
-        "drops": [],
+        "hearts_recovered": 0.0,
+        "cooking_effect": "cold resistance",
         "image": "https://botw-compendium.herokuapp.com/api/v2/entry/warm_darner/image"
     },
     {
@@ -331,8 +309,7 @@ export const small_creatures = [
             "Gerudo Desert"
         ],
         "hearts_recovered": 0.0,
-        "elixir_effect": "shock resistance",
-        "drops": [],
+        "cooking_effect": "shock resistance",
         "image": "https://botw-compendium.herokuapp.com/api/v2/entry/electric_darner/image"
     },
     {
@@ -344,8 +321,7 @@ export const small_creatures = [
             "East Necluda"
         ],
         "hearts_recovered": 0.0,
-        "elixir_effect": "stamina recovery",
-        "drops": [],
+        "cooking_effect": "stamina recovery",
         "image": "https://botw-compendium.herokuapp.com/api/v2/entry/restless_cricket/image"
     },
     {
@@ -357,8 +333,7 @@ export const small_creatures = [
             "East Necluda"
         ],
         "hearts_recovered": 0.0,
-        "elixir_effect": "attack up",
-        "drops": [],
+        "cooking_effect": "attack up",
         "image": "https://botw-compendium.herokuapp.com/api/v2/entry/bladed_rhino_beetle/image"
     },
     {
@@ -370,8 +345,7 @@ export const small_creatures = [
             "Faron Grasslands"
         ],
         "hearts_recovered": 0.0,
-        "elixir_effect": "defense up",
-        "drops": [],
+        "cooking_effect": "defense up",
         "image": "https://botw-compendium.herokuapp.com/api/v2/entry/rugged_rhino_beetle/image"
     },
     {
@@ -383,8 +357,7 @@ export const small_creatures = [
             "West Necluda"
         ],
         "hearts_recovered": 0.0,
-        "elixir_effect": "stamina recovery",
-        "drops": [],
+        "cooking_effect": "stamina recovery",
         "image": "https://botw-compendium.herokuapp.com/api/v2/entry/energetic_rhino_beetle/image"
     },
     {
@@ -396,8 +369,7 @@ export const small_creatures = [
             "Great Hyrule Forest"
         ],
         "hearts_recovered": 0.0,
-        "elixir_effect": "stealth up",
-        "drops": [],
+        "cooking_effect": "stealth up",
         "image": "https://botw-compendium.herokuapp.com/api/v2/entry/sunset_firefly/image"
     },
     {
@@ -409,8 +381,7 @@ export const small_creatures = [
             "Hyrule Ridge"
         ],
         "hearts_recovered": 0.0,
-        "elixir_effect": "speed up",
-        "drops": [],
+        "cooking_effect": "speed up",
         "image": "https://botw-compendium.herokuapp.com/api/v2/entry/hot-footed_frog/image"
     },
     {
@@ -422,8 +393,7 @@ export const small_creatures = [
             "Hyrule Ridge"
         ],
         "hearts_recovered": 0.0,
-        "elixir_effect": "extra stamina",
-        "drops": [],
+        "cooking_effect": "extra stamina",
         "image": "https://botw-compendium.herokuapp.com/api/v2/entry/tireless_frog/image"
     },
     {
@@ -435,8 +405,7 @@ export const small_creatures = [
             "East Necluda"
         ],
         "hearts_recovered": 0.0,
-        "elixir_effect": "speed up",
-        "drops": [],
+        "cooking_effect": "speed up",
         "image": "https://botw-compendium.herokuapp.com/api/v2/entry/hightail_lizard/image"
     },
     {
@@ -448,8 +417,7 @@ export const small_creatures = [
             "Necluda Sea"
         ],
         "hearts_recovered": 0.0,
-        "elixir_effect": "extra hearts",
-        "drops": [],
+        "cooking_effect": "extra hearts",
         "image": "https://botw-compendium.herokuapp.com/api/v2/entry/hearty_lizard/image"
     },
     {
@@ -461,8 +429,7 @@ export const small_creatures = [
             "Death Mountain"
         ],
         "hearts_recovered": 0.0,
-        "elixir_effect": "flame guard",
-        "drops": [],
+        "cooking_effect": "flame guard",
         "image": "https://botw-compendium.herokuapp.com/api/v2/entry/fireproof_lizard/image"
     }
 ];
