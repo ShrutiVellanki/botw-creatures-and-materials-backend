@@ -1,5 +1,4 @@
-{
-    "data": [
+ export const monsters = [
         {
             "id": 84,
             "name": "chuchu",
@@ -1143,4 +1142,3 @@
             "image": "https://botw-compendium.herokuapp.com/api/v2/entry/dark_beast_ganon/image"
         }
     ]
-}
