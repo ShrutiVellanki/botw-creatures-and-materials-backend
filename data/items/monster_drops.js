@@ -739,5 +739,16 @@ export const monster_drops =
             "frost pebblit"
         ],
         "image": "flint.png"
-    }
+    },
+    {
+        "id": 279,
+        "name": "star fragment",
+        "description": "A mysterious stone fragment that fell from the sky. It looks like it would fetch a good price, but you may able to use it in certain recipes as well.",
+        "hearts_recovered": 0,
+        "cooking_effect": "",
+        "image": "star_fragment.png",
+        "dropped_by": [
+            "silver lynel"
+        ]
+    },
 ]

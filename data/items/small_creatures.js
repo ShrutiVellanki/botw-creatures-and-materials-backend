@@ -224,10 +224,7 @@ export const small_creatures = [
         "hearts_recovered": 5.0,
         "cooking_effect": "",
         "image": "https://botw-compendium.herokuapp.com/api/v2/entry/fairy/image"
-    }
-];
-
-export const small_creatures_elixir_ingredients = [
+    },
     {
         "id": 67,
         "name": "winterwing butterfly",
@@ -433,3 +430,4 @@ export const small_creatures_elixir_ingredients = [
         "image": "https://botw-compendium.herokuapp.com/api/v2/entry/fireproof_lizard/image"
     }
 ];
+

@@ -96,5 +96,48 @@ export const creature_drops =
         ],
         "cooking_effect": "energizing",
         "image": "raw_whole_bird.png"
+    },
+    {
+        "id": 207,
+        "name": "bird egg",
+        "description": "A fresh bird egg necessary for making dishes such as omelets or crepes. You can snag them from birds' nests if you're sneaky. Nutritious and delicious, perfect for cooking.",
+        "hearts_recovered": 1,
+        "common_locations": [],
+        "cooking_effect": "energizing",
+        "image": "bird_egg.png",
+        "dropped_by": [
+            "cucco"
+        ]
+    },
+    {
+        "id": 208,
+        "name": "acorn",
+        "description": "Often found on the ground near trees. Squirrels adore this nut, so you may have competition while foraging. Add one to a meal for a nutty seasoning.",
+        "hearts_recovered": 0.25,
+        "common_locations": [
+            "Trees"
+        ],
+        "cooking_effect": "energizing",
+        "image": "acorn.png",
+        "dropped_by": [
+            "bushy-tailed squirrel"
+        ]
+    },
+    {
+        "id": 209,
+        "name": "chickaloo tree nut",
+        "description": "Small birds love this nut. You can eat it raw for a minor effect, but it can also be added as a spice to other recipes.",
+        "hearts_recovered": 0.2,
+        "common_locations": [],
+        "cooking_effect": "energizing",
+        "image": "chickaloo_tree_nut.png",
+        "dropped_by": [
+            "common sparrow",
+            "red sparrow",
+            "blue sparrow",
+            "rainbow sparrow",
+            "sand sparrow",
+            "golden sparrow"
+        ]
     }
 ]
