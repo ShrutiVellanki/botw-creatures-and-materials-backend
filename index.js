@@ -102,6 +102,17 @@ app.get("/monsters", (req, res) => {
     }
 })
 
+app.get("/monsters/:id", (req, res) => {
+    const monster = monsters.find(monster => {
+        return monster.id === parseInt(req.params.id)
+    });
+    if (monster) {
+        res.send(monster);
+    } else {
+        res.sendStatus(404);
+    }
+})
+
 app.listen(port, () => {
     console.log(`Example app is listening on port: ${port}`);
 })
