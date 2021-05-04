@@ -1,4 +1,4 @@
-export const creature_drops =  
+exports.creature_drops =  
 [
     {
         "id": 201,

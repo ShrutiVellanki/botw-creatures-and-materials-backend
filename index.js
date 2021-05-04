@@ -1,11 +1,8 @@
 const { large_creatures } = require('./data/items/large_creatures');
+const { creature_drops } = require('./data/items/creature_drops');
 const express = require("express");
 const app = express();
 let port = process.env.PORT || 3000;
-const large_creatures_formatted = large_creatures.map(creature => {
-    delete creature.drops;
-    return creature;
-});
 
 app.get("/", (req, res) => {
     res.send("Hello World");
@@ -18,7 +15,7 @@ app.get("/creatures/large/", (req, res) => {
 
     if (req.query.location) {
         for (let location of req.query.location) {
-            large_creatures_formatted = large_creatures_formatted.filter(creature => {
+            large_creatures = large_creatures.filter(creature => {
                 if (creature.common_locations.indexOf(location) > -1) {
                     return creature;
                 }
@@ -26,16 +23,16 @@ app.get("/creatures/large/", (req, res) => {
         }
     }
 
-    if (large_creatures_formatted.length === 0)
+    if (large_creatures.length === 0)
     {
         res.sendStatus(404);
     } else {
-        res.send(large_creatures_formatted);
+        res.send(large_creatures);
     }
 })
 
 app.get("/creatures/large/:id", (req, res) => {
-    const creature = large_creatures_formatted.find(creature => {
+    const creature = large_creatures.find(creature => {
         return creature.id === parseInt(req.params.id)
     });
     if (creature) {
@@ -43,6 +40,23 @@ app.get("/creatures/large/:id", (req, res) => {
     } else {
         res.sendStatus(404);
     }
+})
+
+app.get("/creatures/large/:id/drops", (req, res) => {
+    const creature = large_creatures.find(creature => {
+        return creature.id === parseInt(req.params.id)
+    });
+    if (creature) {
+        const drops = creature_drops.filter(item => {
+            if (creature.drops.indexOf(item.name) > -1) {
+                return item;
+            }
+        });
+        if (drops.length > 0) {
+            res.send(drops);
+        }
+    }
+    res.sendStatus(404);
 })
 
 app.listen(port, () => {
