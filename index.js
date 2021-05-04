@@ -1,6 +1,7 @@
 const { large_creatures } = require('./data/items/large_creatures');
 const { creature_drops } = require('./data/items/creature_drops');
 const { small_creatures } = require('./data/items/small_creatures');
+const { monsters } = require('./data/items/monsters');
 const express = require("express");
 const app = express();
 let port = process.env.PORT || 3000;
@@ -10,13 +11,15 @@ app.get("/", (req, res) => {
 })
 
 app.get("/creatures/large/", (req, res) => {
+    let largeCreatures = large_creatures;
+
     req.query.location = req.query.location && typeof req.query.location === 'string'? 
                         [req.query.location] : 
                         req.query.location;
 
     if (req.query.location) {
         for (let location of req.query.location) {
-            large_creatures = large_creatures.filter(creature => {
+            largeCreatures = largeCreatures.filter(creature => {
                 if (creature.common_locations.indexOf(location) > -1) {
                     return creature;
                 }
@@ -24,11 +27,11 @@ app.get("/creatures/large/", (req, res) => {
         }
     }
 
-    if (large_creatures.length === 0)
+    if (largeCreatures.length === 0)
     {
         res.sendStatus(404);
     } else {
-        res.send(large_creatures);
+        res.send(largeCreatures);
     }
 })
 
@@ -62,6 +65,41 @@ app.get("/creatures/large/:id/drops", (req, res) => {
 
 app.get("/creatures/small", (req, res) => {
     res.send(small_creatures);
+})
+
+app.get("/creatures/small/:id", (req, res) => {
+    const creature = small_creatures.find(creature => {
+        return creature.id === parseInt(req.params.id)
+    });
+    if (creature) {
+        res.send(creature);
+    } else {
+        res.sendStatus(404);
+    }
+})
+
+app.get("/monsters", (req, res) => {
+    let monstersList = monsters;
+    req.query.location = req.query.location && typeof req.query.location === 'string'? 
+                        [req.query.location] : 
+                        req.query.location;
+
+    if (req.query.location) {
+        for (let location of req.query.location) {
+            monstersList = monstersList.filter(creature => {
+                if (creature.common_locations.indexOf(location) > -1) {
+                    return creature;
+                }
+            })
+        }
+    }
+
+    if (monstersList.length === 0)
+    {
+        res.sendStatus(404);
+    } else {
+        res.send(monstersList);
+    }
 })
 
 app.listen(port, () => {

@@ -1,4 +1,4 @@
- export const monsters = [
+exports.monsters = [
         {
             "id": 84,
             "name": "chuchu",
