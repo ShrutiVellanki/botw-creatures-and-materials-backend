@@ -1,4 +1,4 @@
-export const small_creatures = [
+exports.small_creatures = [
     {
         "id": 48,
         "name": "hyrule bass",

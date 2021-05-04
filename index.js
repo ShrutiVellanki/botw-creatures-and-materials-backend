@@ -1,5 +1,6 @@
 const { large_creatures } = require('./data/items/large_creatures');
 const { creature_drops } = require('./data/items/creature_drops');
+const { small_creatures } = require('./data/items/small_creatures');
 const express = require("express");
 const app = express();
 let port = process.env.PORT || 3000;
@@ -57,6 +58,10 @@ app.get("/creatures/large/:id/drops", (req, res) => {
         }
     }
     res.sendStatus(404);
+})
+
+app.get("/creatures/small", (req, res) => {
+    res.send(small_creatures);
 })
 
 app.listen(port, () => {
