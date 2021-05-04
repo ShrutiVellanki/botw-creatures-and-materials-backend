@@ -1,4 +1,4 @@
-export const monster_drops = 
+exports.monster_drops = 
 [
     {
         "id": 218,

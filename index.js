@@ -1,6 +1,7 @@
 const { large_creatures } = require('./data/items/large_creatures');
 const { creature_drops } = require('./data/items/creature_drops');
 const { small_creatures } = require('./data/items/small_creatures');
+const { monster_drops } = require('./data/items/monster_drops');
 const { monsters } = require('./data/items/monsters');
 const express = require("express");
 const app = express();
@@ -111,6 +112,23 @@ app.get("/monsters/:id", (req, res) => {
     } else {
         res.sendStatus(404);
     }
+})
+
+app.get("/monsters/:id/drops", (req, res) => {
+    const monster = monsters.find(monster => {
+        return monster.id === parseInt(req.params.id)
+    });
+    if (monster) {
+        const drops = monster_drops.filter(item => {
+            if (monster.drops.indexOf(item.name) > -1) {
+                return item;
+            }
+        });
+        if (drops.length > 0) {
+            res.send(drops);
+        }
+    }
+    res.sendStatus(404);
 })
 
 app.listen(port, () => {
