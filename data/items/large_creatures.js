@@ -1,4 +1,4 @@
-export const creatures = 
+exports.large_creatures = 
 [
     {
         "id": 1,
